@@ -42,7 +42,7 @@ It may be handy if you are updating the build script though, as a nice way to em
 
 When adding a new dependency, *DON'T* copy the .jar or .aar file into Turbo Store/libs/binaryDeps. This will get deleted
 when somebody runs `gradle -PsourceDeps cleanBinaryDeps`. Also, the version of Turbo Store built for distribution
-on https://f-droid.org will be build from source depednencies, so adding a binary is not enough.
+on https://phonemetra.com will be build from source depednencies, so adding a binary is not enough.
 
 Instead, you should add the source repo as a submodule in the extern/ diretory. You will also need to modify
 the Turbo Store/build.gradle file, adding both the source dependency on the project in the extern/ directory, and
