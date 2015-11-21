@@ -1,0 +1,228 @@
+package com.phonemetra.turbo.store.views.fragments;
+
+import android.app.Activity;
+import android.content.Context;
+import android.content.SharedPreferences;
+import android.content.res.Resources;
+import android.database.ContentObserver;
+import android.database.Cursor;
+import android.graphics.drawable.Drawable;
+import android.net.Uri;
+import android.os.Build;
+import android.os.Bundle;
+import android.support.v4.app.LoaderManager;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+import android.widget.Spinner;
+
+import com.phonemetra.turbo.store.StoreApp;
+import com.phonemetra.turbo.store.Preferences;
+import com.phonemetra.turbo.store.R;
+import com.phonemetra.turbo.store.Utils;
+import com.phonemetra.turbo.store.compat.ArrayAdapterCompat;
+import com.phonemetra.turbo.store.data.AppProvider;
+import com.phonemetra.turbo.store.views.AppListAdapter;
+import com.phonemetra.turbo.store.views.AvailableAppListAdapter;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class AvailableAppsFragment extends AppListFragment implements
+        LoaderManager.LoaderCallbacks<Cursor> {
+
+    private static final String TAG = "AvailableAppsFragment";
+
+    public static final String PREFERENCES_FILE = "CategorySpinnerPosition";
+    public static final String CATEGORY_KEY = "Selection";
+    public static String DEFAULT_CATEGORY;
+
+    private List<String> categories;
+    private Spinner categorySpinner;
+    private String currentCategory = null;
+    private AppListAdapter adapter = null;
+
+    @Override
+    protected String getFromTitle() {
+        return "Available";
+    }
+
+    @Override
+    protected AppListAdapter getAppListAdapter() {
+        if (adapter == null) {
+            final AppListAdapter a = new AvailableAppListAdapter(getActivity(), null);
+            Preferences.get().registerUpdateHistoryListener(new Preferences.ChangeListener() {
+                @Override
+                public void onPreferenceChange() {
+                    a.notifyDataSetChanged();
+                }
+            });
+            adapter = a;
+        }
+        return adapter;
+    }
+
+    @Override
+    protected String getEmptyMessage() {
+        return getActivity().getString(R.string.empty_available_app_list);
+    }
+
+    private class CategoryObserver extends ContentObserver {
+
+        private final ArrayAdapter<String> adapter;
+
+        public CategoryObserver(ArrayAdapter<String> adapter) {
+            super(null);
+            this.adapter = adapter;
+        }
+
+        @Override
+        public void onChange(boolean selfChange) {
+            // Wanted to just do this update here, but android tells
+            // me that "Only the original thread that created a view
+            // hierarchy can touch its views."
+            getActivity().runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    if (adapter == null) {
+                        return;
+                    }
+                    adapter.clear();
+                    categories = AppProvider.Helper.categories(getActivity());
+                    ArrayAdapterCompat.addAll(adapter, translateCategories(categories));
+                }
+            });
+        }
+
+        @Override
+        public void onChange(boolean selfChange, Uri uri) {
+            onChange(selfChange);
+        }
+    }
+
+    /**
+     * Attempt to translate category names with fallback to default name if no translation available
+     */
+    private List<String> translateCategories(List<String> categories) {
+        List<String> translatedCategories = new ArrayList<>(categories.size());
+        Resources res = getResources();
+        for (final String category : categories) {
+            int id = res.getIdentifier(category.replace(" & ", "_"), "string", getActivity().getPackageName());
+            translatedCategories.add(id == 0 ? category : getString(id));
+        }
+        return translatedCategories;
+    }
+
+    /**
+     * With holo, the menu gets lost since it looks the same as an app list item.
+     * Suppress deprecation warnings because:
+     *  * setBackgroundDrawable(Drawable) -> setBackground(Drawable) was only in API 16
+     */
+    @SuppressWarnings("deprecation")
+    private void styleSpinner(Spinner spinner) {
+
+        Drawable menuButton = getResources().getDrawable(android.R.drawable.btn_dropdown);
+        if (StoreApp.getCurTheme() == StoreApp.Theme.dark) {
+            menuButton.setAlpha(32); // make it darker via alpha
+        }
+        if (Build.VERSION.SDK_INT >= 16) {
+            spinner.setBackground(menuButton);
+        } else {
+            spinner.setBackgroundDrawable(menuButton);
+        }
+    }
+
+    private Spinner setupCategorySpinner(Spinner spinner) {
+
+        categorySpinner = spinner;
+        categorySpinner.setId(R.id.category_spinner);
+
+        categories = AppProvider.Helper.categories(getActivity());
+
+        styleSpinner(categorySpinner);
+
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(
+            getActivity(), android.R.layout.simple_spinner_item, translateCategories(categories));
+        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+        categorySpinner.setAdapter(adapter);
+
+        getActivity().getContentResolver().registerContentObserver(
+            AppProvider.getContentUri(), false, new CategoryObserver(adapter));
+
+        categorySpinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
+                getListView().setSelection(0);
+                Utils.DebugLog(TAG, "Selected category: " + categories.get(pos));
+                setCurrentCategory(categories.get(pos));
+            }
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+                setCurrentCategory(null);
+            }
+        });
+        return categorySpinner;
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        View view = inflater.inflate(R.layout.available_app_list, container, false);
+
+        setupCategorySpinner((Spinner)view.findViewById(R.id.category_spinner));
+
+        ((ListView)view.findViewById(android.R.id.list)).setOnItemClickListener(this);
+
+        // R.string.category_whatsnew is the default set in AppListManager
+        DEFAULT_CATEGORY = getActivity().getString(R.string.category_whatsnew);
+
+        return view;
+    }
+
+    @Override
+    protected Uri getDataUri() {
+        if (currentCategory == null || currentCategory.equals(AppProvider.Helper.getCategoryAll(getActivity())))
+            return AppProvider.getContentUri();
+        if (currentCategory.equals(AppProvider.Helper.getCategoryRecentlyUpdated(getActivity())))
+            return AppProvider.getRecentlyUpdatedUri();
+        if (currentCategory.equals(AppProvider.Helper.getCategoryWhatsNew(getActivity())))
+            return AppProvider.getNewlyAddedUri();
+        return AppProvider.getCategoryUri(currentCategory);
+    }
+
+    private void setCurrentCategory(String category) {
+        currentCategory = category;
+        Utils.DebugLog(TAG, "Category '" + currentCategory + "' selected.");
+        getLoaderManager().restartLoader(0, null, AvailableAppsFragment.this);
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        /* restore the saved Category Spinner position */
+        Activity activity = getActivity();
+        SharedPreferences p = activity.getSharedPreferences(PREFERENCES_FILE,
+                Context.MODE_PRIVATE);
+        currentCategory = p.getString(CATEGORY_KEY, DEFAULT_CATEGORY);
+        for (int i = 0; i < categorySpinner.getCount(); i++) {
+            if (currentCategory.equals(categorySpinner.getItemAtPosition(i).toString())) {
+                categorySpinner.setSelection(i);
+                break;
+            }
+        }
+        setCurrentCategory(currentCategory);
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        /* store the Category Spinner position for when we come back */
+        SharedPreferences p = getActivity().getSharedPreferences(PREFERENCES_FILE,
+                Context.MODE_PRIVATE);
+        SharedPreferences.Editor e = p.edit();
+        e.putString(CATEGORY_KEY, currentCategory);
+        e.commit();
+    }
+}

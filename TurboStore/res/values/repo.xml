@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <!-- 1 - https://phonemetra.com/repo -->
+     <string name="phonemetra_repo_name" formatted="false" translatable="false">Phonemetra</string>
+     
+    <integer name="phonemetra_repo_version">14</integer>
+    <integer name="phonemetra_repo_inuse">1</integer>
+    <integer name="phonemetra_repo_priority">10</integer>
+    
+    <string name="phonemetra_repo_address" formatted="false" translatable="false">https://phonemetra.com/repo</string>
+    <string name="phonemetra_repo_description" formatted="false" translatable="false">The official Phonemetra repository. Applications in this repository are mostly built directory from the source code. Some are official binaries built by the original application developers - these will be replaced by source-built versions over time.</string>
+    <string name="phonemetra_repo_pubkey" formatted="false" translatable="false">3082010a0282010100ab59e88fd1aecd1d2c1642a641128117018e3c2d73c5452ab99fc3dfd50d78ade6b137ee02a8e9f7cd29ae216b6fd6c6e058b20e8bc8b3525574fdc7a951c9755157215797fa7574c3aa2ffd2e88385a5425e27f04a3ff5afdb77ccc24736df7e50c6b1861b5925a701de1cbac8cd1c07d4cb92b32c9b9592c1221ccd721688a08eb99bdc5d1d722c6c724930b1b19cc16c50e0dfc623a336816bff986e6df9767817cac81e2ddc5866de6b9c7f3536349445c26566cf2f7ac3073dc028d3e8d3761b07abe3864eee679e28dc5dd1193de81a099a94e0238714ef9e497e3df64b64909ed6ef8bf5609ed1ecf7e68ba70eff2273ca6c26e451412df8d86a9f8df0203010001</string>
+                                                                                 
+</resources>

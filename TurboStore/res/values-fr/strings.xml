@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="searchres_napps">%1$d applications trouvées contenant \'%2$s\':</string>
+  <string name="searchres_oneapp">Une application trouvée contenant \'%s\':</string>
+  <string name="searchres_noapps">Aucune application contenant \'%s\' n\'a été trouvée</string>
+  <string name="SignatureMismatch">La nouvelle version est signée avec une clé différente de l\'ancienne. Pour installer la nouvelle version, l\'ancienne doit d\'abord être désinstallée. Essayez cela puis recommencez. (Veuillez noter que désinstaller effacera les données enregistrées par l\'application).</string>
+  <string name="installIncompatible">Il semble que ce paquet ne soit pas compatible avec votre appareil. Voulez-vous quand même tenter de l\'installer?</string>
+  <string name="installDowngrade">Vous essayez de revenir à une ancienne version de cette application. Cela peut causer des problèmes de fonctionnement ou des pertes de données. Voulez-vous tout de même revenir à une ancienne version?</string>
+  <string name="version">Version</string>
+  <string name="edit">Éditer</string>
+  <string name="delete">Supprimer</string>
+  <string name="enable_nfc_send">Activer l\'envoi NFC…</string>
+  <string name="cache_downloaded">Stockage d\'applications téléchargées</string>
+  <string name="cache_downloaded_on">Garder les fichiers apk téléchargés sur la carte SD</string>
+  <string name="updates">Mises à jour</string>
+  <string name="other">Autres</string>
+  <string name="last_update_check">Dernière analyse du dépôt: %s</string>
+  <string name="never">jamais</string>
+  <string name="update_interval">Intervalle de mise à jour automatique</string>
+  <string name="update_interval_zero">Pas de mise à jour automatique de la liste d\'applications</string>
+  <string name="automatic_scan_wifi">Seulement par Wi-Fi</string>
+  <string name="automatic_scan_wifi_on">Mettre à jour automatiquement les listes d\'applications uniquement par Wi-Fi</string>
+  <string name="notify">Notifier</string>
+  <string name="notify_on">Notifier quand des mises à jour sont disponibles</string>
+  <string name="update_history">Historique des mises à jour</string>
+  <string name="update_history_summ">Jours pour considérer les apps comme nouvelles ou récentes: %s</string>
+  <string name="system_installer">Installer en utilisant les permissions systèmes</string>
+  <string name="system_installer_on">Utiliser les permissions du système pour installer, mettre à jour et supprimer des paquets</string>
+  <string name="local_repo_bonjour">Diffuser votre dépôt local</string>
+  <string name="local_repo_bonjour_on">Annoncer votre dépôt local avec \"Bonjour\" (mDNS)</string>
+  <string name="local_repo_name">Nom de votre dépôt local</string>
+  <string name="local_repo_name_summary">Le nom public de votre dépôt local: %s</string>
+  <string name="local_repo_https">Utilisez une connexion privée</string>
+  <string name="local_repo_https_on">Utiliser une connexion chiffrée HTTPS pour le dépôt local</string>
+  <string name="search_results">Résultats de la recherche</string>
+  <string name="app_details">Détails de l\'application</string>
+  <string name="no_such_app">Pas d\'application trouvée</string>
+  <string name="about_title">À propos de Turbo Store</string>
+  <string name="about_desc">Publiée sous licence GNU GPLv3.</string>
+  <string name="about_site">Site web :</string>
+  <string name="about_mail">Courriel :</string>
+  <string name="about_version">Version :</string>
+  <string name="about_website">Site web</string>
+  <string name="no_repo">Aucun dépôt n\'est configuré!
+
+Un dépôt est une source d\'applications. Pour en ajouter un, appuyez maintenant sur le bouton MENU et entrez l\'adresse URL.
+
+L\'adresse d\'un dépôt ressemble à ceci: https://f-droid.org/repo</string>
+  <string name="inst">Installée</string>
+  <string name="not_inst">Non installée</string>
+  <string name="inst_known_source">Installé (depuis %s)</string>
+  <string name="inst_unknown_source">Installé (depuis une source inconnue)</string>
+  <string name="added_on">Ajoutée le %s</string>
+  <string name="ok">OK</string>
+  <string name="yes">Oui</string>
+  <string name="no">Non</string>
+  <string name="repo_add_title">Ajouter un nouveau dépôt</string>
+  <string name="repo_add_add">Ajouter</string>
+  <string name="cancel">Annuler</string>
+  <string name="enable">Activer</string>
+  <string name="add_key">Ajouter une clé</string>
+  <string name="overwrite">Écraser</string>
+  <string name="repo_update_title">Mettre à jour les dépôts</string>
+  <string name="tab_noninstalled">Disponibles</string>
+  <string name="tab_updates">Mises à jour</string>
+  <string name="one_update_available">Une mise à jour est disponible.</string>
+  <string name="many_updates_available">%d mises à jour sont disponibles.</string>
+  <string name="fdroid_updates_available">Des mises à jour Turbo Store sont disponibles</string>
+  <string name="process_wait_title">Patientez</string>
+  <string name="process_update_msg">Mise à jour de la liste d\'applications…</string>
+  <string name="download_server">Réception d\'application de</string>
+  <string name="nfc_is_not_enabled">Le NFC n\'est pas activé!</string>
+  <string name="go_to_nfc_settings">Allez dans les paramètres NFC…</string>
+  <string name="bluetooth_activity_not_found">Pas de méthode d\'envoi Bluetooth trouvée, choisissez-en une!</string>
+  <string name="choose_bt_send">Choisir la méthode d\'envoi Bluetooth</string>
+  <string name="send_via_bluetooth">Envoyer par Bluetooth</string>
+  <string name="repo_add_url">Adresse du dépôt</string>
+  <string name="repo_add_fingerprint">Empreinte digitale (optionnel)</string>
+  <string name="repo_exists">Ce dépôt existe déjà!</string>
+  <string name="repo_exists_add_fingerprint">Ce dépôt est déjà configuré, cela va ajouter les informations des nouvelles clés.</string>
+  <string name="repo_exists_enable">Ce dépôt est déjà configuré, confirmer que vous voulez le réactiver.</string>
+  <string name="repo_exists_and_enabled">Le dépôt entrant est déjà configuré et activé!</string>
+  <string name="repo_delete_to_overwrite">Vous devez d\'abord supprimer ce dépôt avant d\'en ajouter avec une clé différente!</string>
+  <string name="malformed_repo_uri">URI de dépôt malformé ignoré: %s</string>
+  <string name="repo_alrt">La liste des dépôts utilisés a changé.
+Voulez-vous les mettre à jour?</string>
+  <string name="menu_update_repo">Mettre à jour les dépôts</string>
+  <string name="menu_manage">Gestion de dépôts</string>
+  <string name="menu_send_apk_bt">Bluetooth TurboStore.apk…</string>
+  <string name="menu_preferences">Préférences</string>
+  <string name="menu_about">À propos</string>
+  <string name="menu_search">Rechercher</string>
+  <string name="menu_add_repo">Nouveau dépôt</string>
+  <string name="menu_rem_repo">Supprimer un dépôt</string>
+  <string name="menu_scan_repo">Trouver des dépôts locaux</string>
+  <string name="menu_launch">Lancer</string>
+  <string name="menu_share">Partager</string>
+  <string name="menu_install">Installer</string>
+  <string name="menu_uninstall">Désinstaller</string>
+  <string name="menu_ignore_all">Ignorer toutes les mises à jour</string>
+  <string name="menu_ignore_this">Ignorer cette mise à jour</string>
+  <string name="menu_website">Site Web</string>
+  <string name="menu_issues">Problèmes</string>
+  <string name="menu_source">Code source</string>
+  <string name="menu_upgrade">Mise à jour</string>
+  <string name="menu_donate">Faire un don</string>
+  <string name="details_installed">Version %s installée</string>
+  <string name="details_notinstalled">Non installée</string>
+  <string name="corrupt_download">Le fichier téléchargé est corrompu</string>
+  <string name="download_cancelled">Téléchargement annulé</string>
+  <string name="antiadslist">Cette application contient des publicités</string>
+  <string name="antitracklist">Cette application épie et rapporte votre activité</string>
+  <string name="antinonfreeadlist">Cette application promeut des extensions privatrices</string>
+  <string name="antinonfreenetlist">Cette application promeut des services réseaux privateurs</string>
+  <string name="antinonfreedeplist">Cette application dépend d\'autres applications non libres</string>
+  <string name="antiupstreamnonfreelist">Le code source en amont n\'est pas entièrement libre</string>
+  <string name="display">Affichage</string>
+  <string name="expert">Expert</string>
+  <string name="expert_on">Afficher plus d\'infos et activer des paramètres supplémentaires</string>
+  <string name="search_hint">Rechercher des applications</string>
+  <string name="appcompatibility">Compatibilité des applications</string>
+  <string name="show_incompat_versions">Versions incompatibles</string>
+  <string name="show_incompat_versions_on">Afficher les versions des applications incompatibles avec l\'appareil</string>
+  <string name="rooted">Root</string>
+  <string name="rooted_on">Ne pas griser les applications nécessitant les privilèges root</string>
+  <string name="ignoreTouch">Ignorer l\'écran tactile</string>
+  <string name="ignoreTouch_on">Toujours inclure les apps nécessitant un écran tactile</string>
+  <string name="category_all">Tout</string>
+  <string name="category_whatsnew">Quoi de neuf ?</string>
+  <string name="category_recentlyupdated">Mis à jour récemment</string>
+  <string name="local_repo">Dépôt local</string>
+  <string name="local_repos_title">Dépôts Turbo Store locaux</string>
+  <string name="local_repos_scanning">Découverte des dépôts Turbo Store locaux…</string>
+  <string name="local_repo_running">Turbo Store est prêt à être échangé</string>
+  <string name="waiting_for_ipaddress">Attente de l\'adresse IP…</string>
+  <string name="setup_repo">Configurer le dépôt local</string>
+  <string name="touch_to_configure_local_repo">Appuyez pour voir les détails et autoriser les autres à échanger des apps</string>
+  <string name="touch_to_turn_on_local_repo">Appuyez pour activer votre dépôt local</string>
+  <string name="touch_to_turn_off_local_repo">Appuyez pour désactiver votre dépôt local</string>
+  <string name="updating">Mise à jour…</string>
+  <string name="update_repo">Mettre à jour le dépôt</string>
+  <string name="deleting_repo">Supprimer le dépôt actuel</string>
+  <string name="adding_apks_format">Ajout de %s au dépôt…</string>
+  <string name="writing_index_jar">Écriture d\'un fichier d\'index signé (index.jar)…</string>
+  <string name="failed_to_create_index">Échec à la création d\'un index de dépôt!</string>
+  <string name="linking_apks">Création de liens pour les APKs dans le dépôt…</string>
+  <string name="copying_icons">Copie des icônes des apps dans le dépôt…</string>
+  <string name="updated_local_repo">Fin de la mise à jour du dépôt local</string>
+  <string name="no_applications_found">Aucune application trouvée</string>
+  <string name="icon">icône</string>
+  <string name="fingerprint">Empreinte:</string>
+  <string name="wifi_network">Réseau WiFi:</string>
+  <string name="sharing_uri">Partager l\'URL:</string>
+  <string name="enable_wifi">Activer le WiFi</string>
+  <string name="enabling_wifi">Activation du WiFi…</string>
+  <string name="same_wifi_instructions">Pour se connecter aux appareils d\'autres personnes, assurez vous que vos appareils sont connectés sur le même réseau WiFi. Ensuite, soit tapez l\'URL ci-dessus dans Turbo Store, soit scannez ce code QR:</string>
+  <string name="qr_code">Code QR</string>
+  <string name="next">Suivant</string>
+  <string name="skip">Passer</string>
+  <string name="qr_content_description">Code QR de l\'URL du dépôt</string>
+  <string name="qr_wizard_wifi_network_instructions">Numérisez ce code QR pour vous connecter au même réseau WiFi que cet appareil.</string>
+  <string name="qr_wizard_download_instructions">Numérisez ce code QR pour vous connecter au site web pour la prise en main.</string>
+  <string name="send_fdroid_via_wifi">Envoyez Turbo Store par Wi-Fi…</string>
+  <string name="proxy">Proxy</string>
+  <string name="enable_proxy_title">Activer le proxy HTTP</string>
+  <string name="enable_proxy_summary">Configurer le proxy HTTP pour toutes les requêtes réseaux</string>
+  <string name="proxy_host">Hôte du proxy</string>
+  <string name="proxy_host_summary">Configurer votre nom d\'hôte de proxy (ex. 127.0.0.1)</string>
+  <string name="proxy_port">Port du proxy</string>
+  <string name="proxy_port_summary">Configurer votre numéro de port de proxy (ex. 8118)</string>
+  <string name="status_download">Téléchargement
+%2$s / %3$s (%4$d%%) de
+%1$s</string>
+  <string name="status_connecting_to_repo">Connexion à
+%1$s</string>
+  <string name="status_checking_compatibility">Vérification de la compatibilité des applications avec votre appareil…</string>
+  <string name="status_inserting">Sauvegarder les détails de l\'application (%1$d%%)</string>
+  <string name="repos_unchanged">Aucun dépôt n\'a de mises à jour des paquets</string>
+  <string name="all_other_repos_fine">Tous les autres dépôts n\'ont pas générés d\'erreurs.</string>
+  <string name="global_error_updating_repos">Erreur durant la mise à jour:</string>
+  <string name="no_permissions">Aucune autorisation n\'est utilisée.</string>
+  <string name="permissions_for_long">Permissions pour la version %s</string>
+  <string name="no_handler_app">Vous n\'avez aucune application installée pour gérer %s</string>
+  <string name="compactlayout">Affichage compact</string>
+  <string name="compactlayout_on">Montrer les icônes à une taille plus petite</string>
+  <string name="theme">Thème</string>
+  <string name="unsigned">Non signé</string>
+  <string name="unverified">Non vérifié</string>
+  <string name="repo_url">URL</string>
+  <string name="repo_num_apps">Nombre d\'applications</string>
+  <string name="repo_fingerprint">Empreinte numérique de la clef de signature pour le dépôt (SHA-256)</string>
+  <string name="repo_description">Description</string>
+  <string name="repo_last_update">Dernière mise à jour</string>
+  <string name="repo_update">Mise à jour</string>
+  <string name="repo_name">Nom</string>
+  <string name="unsigned_description">Cela signifie que la liste
+        des applications n\'a pu être vérifiée. Vous
+        devriez faire attention avec les
+        applications téléchargées d\'indexes non signés.</string>
+  <string name="repo_not_yet_updated">Ce dépôt n\'a pas encore été utilisé.
+        Pour voir la liste des applications qu\'il
+        offre, vous devez le mettre à jour.
+
+Une fois la mise à jour effectuée, la description 
+        et les autres détails seront affichés ici.</string>
+  <string name="repo_delete_details">Voulez vous supprimer le dépôt \"{0}\", qui a {1} apps ? Aucune application installée ne sera supprimée, mais vous ne serez plus en mesure de les mettre à jour via Turbo Store.</string>
+  <string name="unknown">Inconnu</string>
+  <string name="repo_confirm_delete_title">Supprimer le dépôt ?</string>
+  <string name="repo_confirm_delete_body">Supprimer un dépôt signifie que ses apps ne seront plus disponibles via Turbo Store.
+
+Note : toutes les apps précédemment installées vont rester sur votre système.</string>
+  <string name="repo_disabled_notification">« %1$s » a été désactivé.
+
+Vous devez
+        réactiver ce dépôt afin d\'installer ses applications.</string>
+  <string name="minsdk_or_later">%s ou plus récent</string>
+  <string name="up_to_maxsdk">jusqu\'à %s</string>
+  <string name="minsdk_up_to_maxsdk">De %1$s à %2$s</string>
+  <string name="not_on_same_wifi">Votre appareil n\'est sur le même réseau Wi-Fi que le dépôt local que vous venez d\'ajouteru00A0! Essayez de rejoindre ce réseauu00A0: %s</string>
+  <string name="requires_features">Nécessiteu00A0: %1$s</string>
+  <string name="app_icon">Icône de l\'application</string>
+  <string name="repo_icon">Icône du dépôt</string>
+  <string name="Children">Enfants</string>
+  <string name="Development">Développement</string>
+  <string name="Games">Jeux</string>
+  <string name="Internet">Internet</string>
+  <string name="Mathematics">Mathématiques</string>
+  <string name="Multimedia">Multimédia</string>
+  <string name="Navigation">Navigation</string>
+  <string name="News">Nouveautés</string>
+  <string name="Office">Bureautique</string>
+  <string name="Phone_SMS">Téléphone &amp; SMS</string>
+  <string name="Reading">Lecture</string>
+  <string name="Science_Education">Science &amp; Éducation</string>
+  <string name="Security">Sécurité</string>
+  <string name="System">Système</string>
+  <string name="Wallpaper">Fond d\'écran</string>
+  <string name="requesting_root_access_body">Demande des droits root…</string>
+  <string name="root_access_denied_title">Droits root refusés</string>
+  <string name="root_access_denied_body">Soit votre système Android n\'a pas les droits root/SuperUser, soit vous les avez refusés à Turbo Store.</string>
+  <string name="update_all">Tout mettre à jour</string>
+  <string name="system_permission_denied_title">Permissions systèmes refusées</string>
+  <string name="system_permission_denied_body">Cette option est seulement disponible quand Turbo Store est installé comme application-système.</string>
+  <string name="app_description">Turbo Store est un catalogue installable de logiciels libres et open source pour le système Android. Le client permet une navigation facile, l\'installation, et garder une trace des mises à jour sur votre appareil.</string>
+  <string name="swap_join_same_wifi">Se connecter au même WiFi que votre ami</string>
+  <string name="swap_use_bluetooth">Utiliser plutôt le Bluetooth</string>
+  <string name="swap_wifi_help">En apprendre plus sur le réseau WiFi</string>
+  <string name="menu_swap">Échanger des apps</string>
+  <string name="swap">Échanger des apps</string>
+  <string name="swap_no_wifi_network">Pas encore de réseau</string>
+  <string name="swap_view_available_networks">(Appuyez pour ouvrir les réseaux disponibles)</string>
+  <string name="swap_wifi_qr_not_working">Ça ne marche pas</string>
+  <string name="open_qr_code_scanner">Ouvrir le scanner QR Code</string>
+  <string name="swap_welcome">Bienvenue sur Turbo Store/u00A0!</string>
+  <string name="swap_confirm_connect">Voulez-vous recevoir des applications de %1$s maintenantu00A0?</string>
+</resources>
