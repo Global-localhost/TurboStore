@@ -1,0 +1,5081 @@
+[
+    {
+        "outputFile": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rBR\\values-pt-rBR.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 45,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 2,
+                        "startOffset": 15952,
+                        "endColumn": 43,
+                        "endOffset": 15993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endColumn": 55,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 2,
+                        "startOffset": 15997,
+                        "endColumn": 53,
+                        "endOffset": 16048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 39,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 2,
+                        "startOffset": 16052,
+                        "endColumn": 37,
+                        "endOffset": 16087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 45,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 2,
+                        "startOffset": 16091,
+                        "endColumn": 43,
+                        "endOffset": 16132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 50,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 2,
+                        "startOffset": 16136,
+                        "endColumn": 48,
+                        "endOffset": 16182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 49,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 2,
+                        "startOffset": 16186,
+                        "endColumn": 47,
+                        "endOffset": 16231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 48,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 2,
+                        "startOffset": 16235,
+                        "endColumn": 46,
+                        "endOffset": 16279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 40,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 2,
+                        "startOffset": 16283,
+                        "endColumn": 38,
+                        "endOffset": 16319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endColumn": 45,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 2,
+                        "startOffset": 16323,
+                        "endColumn": 43,
+                        "endOffset": 16364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 52,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 2,
+                        "startOffset": 16368,
+                        "endColumn": 50,
+                        "endOffset": 16416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 43,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 2,
+                        "startOffset": 16420,
+                        "endColumn": 41,
+                        "endOffset": 16459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 64,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 2,
+                        "startOffset": 16463,
+                        "endColumn": 62,
+                        "endOffset": 16523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 46,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 2,
+                        "startOffset": 16527,
+                        "endColumn": 44,
+                        "endOffset": 16569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 289,
+                    "endOffset": 1024
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 353,
+                        "endColumn": 287,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1029,
+                    "endColumn": 42,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 2,
+                        "startOffset": 16573,
+                        "endColumn": 40,
+                        "endOffset": 16611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 51,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 2,
+                        "startOffset": 16615,
+                        "endColumn": 49,
+                        "endOffset": 16662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 71,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 3171,
+                        "endColumn": 69,
+                        "endOffset": 3238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endColumn": 46,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 3292,
+                        "endColumn": 44,
+                        "endOffset": 3334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 50,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 3242,
+                        "endColumn": 48,
+                        "endOffset": 3288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 59,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 3112,
+                        "endColumn": 57,
+                        "endOffset": 3167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 49,
+                    "endOffset": 1399
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 3338,
+                        "endColumn": 47,
+                        "endOffset": 3383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1404,
+                    "endColumn": 52,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 3387,
+                        "endColumn": 50,
+                        "endOffset": 3435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 51,
+                    "endOffset": 1504
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 4313,
+                        "endColumn": 49,
+                        "endOffset": 4360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1509,
+                    "endColumn": 53,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 3955,
+                        "endColumn": 51,
+                        "endOffset": 4004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1563,
+                    "endColumn": 77,
+                    "endOffset": 1636
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 2,
+                        "startOffset": 10285,
+                        "endColumn": 75,
+                        "endOffset": 10358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1641,
+                    "endColumn": 96,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 2,
+                        "startOffset": 12945,
+                        "endColumn": 94,
+                        "endOffset": 13037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 74,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 7759,
+                        "endColumn": 72,
+                        "endOffset": 7829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 93,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 7922,
+                        "endColumn": 91,
+                        "endOffset": 8011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endColumn": 96,
+                    "endOffset": 1999
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 8113,
+                        "endColumn": 94,
+                        "endOffset": 8205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2004,
+                    "endColumn": 98,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 8015,
+                        "endColumn": 96,
+                        "endOffset": 8109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2103,
+                    "endColumn": 89,
+                    "endOffset": 2188
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 7833,
+                        "endColumn": 87,
+                        "endOffset": 7918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2193,
+                    "endColumn": 99,
+                    "endOffset": 2288
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 8209,
+                        "endColumn": 97,
+                        "endOffset": 8304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2293,
+                    "endColumn": 271,
+                    "endOffset": 2560
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 2,
+                        "startOffset": 17264,
+                        "endColumn": 269,
+                        "endOffset": 17531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2565,
+                    "endColumn": 62,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 2979,
+                        "endColumn": 60,
+                        "endOffset": 3037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endColumn": 56,
+                    "endOffset": 2680
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 2,
+                        "startOffset": 15838,
+                        "endColumn": 54,
+                        "endOffset": 15890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2685,
+                    "endColumn": 74,
+                    "endOffset": 2755
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 8552,
+                        "endColumn": 72,
+                        "endOffset": 8622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2760,
+                    "endColumn": 63,
+                    "endOffset": 2819
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1723,
+                        "endColumn": 61,
+                        "endOffset": 1782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2824,
+                    "endColumn": 115,
+                    "endOffset": 2935
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1786,
+                        "endColumn": 113,
+                        "endOffset": 1897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2940,
+                    "endColumn": 117,
+                    "endOffset": 3053
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 5196,
+                        "endColumn": 115,
+                        "endOffset": 5309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3058,
+                    "endColumn": 65,
+                    "endOffset": 3119
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 1182,
+                        "endColumn": 63,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3124,
+                    "endColumn": 89,
+                    "endOffset": 3209
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 1247,
+                        "endColumn": 87,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3214,
+                    "endColumn": 43,
+                    "endOffset": 3253
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 4229,
+                        "endColumn": 41,
+                        "endOffset": 4268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3258,
+                    "endColumn": 46,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 9135,
+                        "endColumn": 44,
+                        "endOffset": 9177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endColumn": 76,
+                    "endOffset": 3377
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 9243,
+                        "endColumn": 74,
+                        "endOffset": 9315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3382,
+                    "endColumn": 62,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 2,
+                        "startOffset": 9181,
+                        "endColumn": 60,
+                        "endOffset": 9239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 79,
+                    "endOffset": 3520
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 5313,
+                        "endColumn": 77,
+                        "endOffset": 5388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3525,
+                    "endColumn": 276,
+                    "endOffset": 3797
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 276,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3802,
+                    "endColumn": 129,
+                    "endOffset": 3927
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 604,
+                        "endColumn": 129,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3932,
+                    "endColumn": 179,
+                    "endOffset": 4107
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 179,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4112,
+                    "endColumn": 128,
+                    "endOffset": 4236
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 128,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4241,
+                    "endColumn": 132,
+                    "endOffset": 4369
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 132,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4374,
+                    "endColumn": 224,
+                    "endOffset": 4594
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 224,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4599,
+                    "endColumn": 221,
+                    "endOffset": 4816
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 221,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4821,
+                    "endColumn": 131,
+                    "endOffset": 4948
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 131,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4953,
+                    "endColumn": 174,
+                    "endOffset": 5123
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endColumn": 174,
+                        "endOffset": 1925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5128,
+                    "endColumn": 122,
+                    "endOffset": 5246
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1930,
+                        "endColumn": 122,
+                        "endOffset": 2048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5251,
+                    "endColumn": 177,
+                    "endOffset": 5424
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2053,
+                        "endColumn": 177,
+                        "endOffset": 2226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5429,
+                    "endColumn": 118,
+                    "endOffset": 5543
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2231,
+                        "endColumn": 118,
+                        "endOffset": 2345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5548,
+                    "endColumn": 133,
+                    "endOffset": 5677
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2350,
+                        "endColumn": 133,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5682,
+                    "endColumn": 172,
+                    "endOffset": 5850
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2484,
+                        "endColumn": 172,
+                        "endOffset": 2652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5855,
+                    "endColumn": 149,
+                    "endOffset": 6000
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2657,
+                        "endColumn": 149,
+                        "endOffset": 2802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6005,
+                    "endColumn": 176,
+                    "endOffset": 6177
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2807,
+                        "endColumn": 176,
+                        "endOffset": 2979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6182,
+                    "endColumn": 126,
+                    "endOffset": 6304
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2984,
+                        "endColumn": 126,
+                        "endOffset": 3106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6309,
+                    "endColumn": 169,
+                    "endOffset": 6474
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3111,
+                        "endColumn": 169,
+                        "endOffset": 3276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6479,
+                    "endColumn": 121,
+                    "endOffset": 6596
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3281,
+                        "endColumn": 121,
+                        "endOffset": 3398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6601,
+                    "endColumn": 268,
+                    "endOffset": 6865
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 268,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6870,
+                    "endColumn": 268,
+                    "endOffset": 7134
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3403,
+                        "endColumn": 268,
+                        "endOffset": 3667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7139,
+                    "endColumn": 116,
+                    "endOffset": 7251
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3672,
+                        "endColumn": 116,
+                        "endOffset": 3784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7256,
+                    "endColumn": 109,
+                    "endOffset": 7361
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3789,
+                        "endColumn": 109,
+                        "endOffset": 3894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7366,
+                    "endColumn": 194,
+                    "endOffset": 7556
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3899,
+                        "endColumn": 194,
+                        "endOffset": 4089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7561,
+                    "endColumn": 131,
+                    "endOffset": 7688
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4094,
+                        "endColumn": 131,
+                        "endOffset": 4221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7693,
+                    "endColumn": 215,
+                    "endOffset": 7904
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4226,
+                        "endColumn": 215,
+                        "endOffset": 4437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7909,
+                    "endColumn": 136,
+                    "endOffset": 8041
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4442,
+                        "endColumn": 136,
+                        "endOffset": 4574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8046,
+                    "endColumn": 186,
+                    "endOffset": 8228
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4579,
+                        "endColumn": 186,
+                        "endOffset": 4761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8233,
+                    "endColumn": 98,
+                    "endOffset": 8327
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4766,
+                        "endColumn": 98,
+                        "endOffset": 4860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8332,
+                    "endColumn": 95,
+                    "endOffset": 8423
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4865,
+                        "endColumn": 95,
+                        "endOffset": 4956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8428,
+                    "endColumn": 112,
+                    "endOffset": 8536
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\values-pt-rBR\\values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 4961,
+                        "endColumn": 112,
+                        "endOffset": 5069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8541,
+                    "endColumn": 58,
+                    "endOffset": 8595
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 2,
+                        "startOffset": 13370,
+                        "endColumn": 56,
+                        "endOffset": 13424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8600,
+                    "endColumn": 79,
+                    "endOffset": 8675
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 2,
+                        "startOffset": 13428,
+                        "endColumn": 77,
+                        "endOffset": 13503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8680,
+                    "endColumn": 88,
+                    "endOffset": 8764
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 2,
+                        "startOffset": 10620,
+                        "endColumn": 86,
+                        "endOffset": 10704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8769,
+                    "endColumn": 78,
+                    "endOffset": 8843
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 7616,
+                        "endColumn": 76,
+                        "endOffset": 7690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8848,
+                    "endColumn": 41,
+                    "endOffset": 8885
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 1077,
+                        "endColumn": 39,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8890,
+                    "endColumn": 71,
+                    "endOffset": 8957
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 2,
+                        "startOffset": 10214,
+                        "endColumn": 69,
+                        "endOffset": 10281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8962,
+                    "endColumn": 65,
+                    "endOffset": 9023
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 7489,
+                        "endColumn": 63,
+                        "endOffset": 7550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 9028,
+                    "endColumn": 62,
+                    "endOffset": 9086
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 7554,
+                        "endColumn": 60,
+                        "endOffset": 7612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 9091,
+                    "endColumn": 43,
+                    "endOffset": 9130
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 8308,
+                        "endColumn": 41,
+                        "endOffset": 8347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 9135,
+                    "endColumn": 65,
+                    "endOffset": 9196
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 2,
+                        "startOffset": 7694,
+                        "endColumn": 63,
+                        "endOffset": 7755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 9201,
+                    "endColumn": 66,
+                    "endOffset": 9263
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 4981,
+                        "endColumn": 64,
+                        "endOffset": 5043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9268,
+                    "endColumn": 39,
+                    "endOffset": 9303
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 1038,
+                        "endColumn": 37,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9308,
+                    "endColumn": 41,
+                    "endOffset": 9345
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 4272,
+                        "endColumn": 39,
+                        "endOffset": 4309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9350,
+                    "endColumn": 64,
+                    "endOffset": 9410
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 1118,
+                        "endColumn": 62,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9415,
+                    "endColumn": 104,
+                    "endOffset": 9515
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 2,
+                        "startOffset": 12080,
+                        "endColumn": 102,
+                        "endOffset": 12180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9520,
+                    "endColumn": 64,
+                    "endOffset": 9580
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 2,
+                        "startOffset": 12016,
+                        "endColumn": 62,
+                        "endOffset": 12076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9585,
+                    "endColumn": 51,
+                    "endOffset": 9632
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 2,
+                        "startOffset": 11079,
+                        "endColumn": 49,
+                        "endOffset": 11126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9637,
+                    "endColumn": 56,
+                    "endOffset": 9689
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 2,
+                        "startOffset": 11130,
+                        "endColumn": 54,
+                        "endOffset": 11182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9694,
+                    "endColumn": 47,
+                    "endOffset": 9737
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 8351,
+                        "endColumn": 45,
+                        "endOffset": 8394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9742,
+                    "endColumn": 94,
+                    "endOffset": 9832
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 8398,
+                        "endColumn": 92,
+                        "endOffset": 8488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9837,
+                    "endColumn": 90,
+                    "endOffset": 9923
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 2,
+                        "startOffset": 10458,
+                        "endColumn": 88,
+                        "endOffset": 10544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9928,
+                    "endColumn": 92,
+                    "endOffset": 10016
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 4742,
+                        "endColumn": 90,
+                        "endOffset": 4830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 10021,
+                    "endColumn": 58,
+                    "endOffset": 10075
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 2,
+                        "startOffset": 10913,
+                        "endColumn": 56,
+                        "endOffset": 10967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 10080,
+                    "endColumn": 83,
+                    "endOffset": 10159
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 2,
+                        "startOffset": 13041,
+                        "endColumn": 81,
+                        "endOffset": 13120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 10164,
+                    "endColumn": 76,
+                    "endOffset": 10236
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 5120,
+                        "endColumn": 74,
+                        "endOffset": 5192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 10241,
+                    "endColumn": 38,
+                    "endOffset": 10275
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 2,
+                        "startOffset": 10875,
+                        "endColumn": 36,
+                        "endOffset": 10909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 10280,
+                    "endColumn": 70,
+                    "endOffset": 10346
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 8961,
+                        "endColumn": 68,
+                        "endOffset": 9027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 10351,
+                    "endColumn": 104,
+                    "endOffset": 10451
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 9031,
+                        "endColumn": 102,
+                        "endOffset": 9131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 10456,
+                    "endColumn": 42,
+                    "endOffset": 10494
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 3701,
+                        "endColumn": 40,
+                        "endOffset": 3739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 10499,
+                    "endColumn": 72,
+                    "endOffset": 10567
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 3793,
+                        "endColumn": 70,
+                        "endOffset": 3861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10572,
+                    "endColumn": 90,
+                    "endOffset": 10658
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 3865,
+                        "endColumn": 88,
+                        "endOffset": 3951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10663,
+                    "endColumn": 205,
+                    "endOffset": 10864
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 791,
+                        "endColumn": 203,
+                        "endOffset": 992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10869,
+                    "endColumn": 149,
+                    "endOffset": 11014
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 642,
+                        "endColumn": 147,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 11019,
+                    "endColumn": 80,
+                    "endOffset": 11095
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 1424,
+                        "endColumn": 78,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 11100,
+                    "endColumn": 72,
+                    "endOffset": 11168
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 2,
+                        "startOffset": 10548,
+                        "endColumn": 70,
+                        "endOffset": 10616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 11173,
+                    "endColumn": 56,
+                    "endOffset": 11225
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 2,
+                        "startOffset": 9319,
+                        "endColumn": 54,
+                        "endOffset": 9371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 11230,
+                    "endColumn": 75,
+                    "endOffset": 11301
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 2397,
+                        "endColumn": 73,
+                        "endOffset": 2468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 11306,
+                    "endColumn": 102,
+                    "endOffset": 11404
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 2472,
+                        "endColumn": 100,
+                        "endOffset": 2570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 11409,
+                    "endColumn": 65,
+                    "endOffset": 11470
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 2744,
+                        "endColumn": 63,
+                        "endOffset": 2805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 11475,
+                    "endColumn": 108,
+                    "endOffset": 11579
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 2809,
+                        "endColumn": 106,
+                        "endOffset": 2913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 11584,
+                    "endColumn": 73,
+                    "endOffset": 11653
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 2574,
+                        "endColumn": 71,
+                        "endOffset": 2643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 11658,
+                    "endColumn": 97,
+                    "endOffset": 11751
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 2647,
+                        "endColumn": 95,
+                        "endOffset": 2740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 11756,
+                    "endColumn": 86,
+                    "endOffset": 11838
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 2,
+                        "startOffset": 9551,
+                        "endColumn": 84,
+                        "endOffset": 9633
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 11843,
+                    "endColumn": 96,
+                    "endOffset": 11935
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 2,
+                        "startOffset": 9455,
+                        "endColumn": 94,
+                        "endOffset": 9547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11940,
+                    "endColumn": 80,
+                    "endOffset": 12016
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 2,
+                        "startOffset": 9375,
+                        "endColumn": 78,
+                        "endOffset": 9451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 12021,
+                    "endColumn": 91,
+                    "endOffset": 12108
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 6161,
+                        "endColumn": 89,
+                        "endOffset": 6248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 12113,
+                    "endColumn": 79,
+                    "endOffset": 12188
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 4663,
+                        "endColumn": 77,
+                        "endOffset": 4738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 12193,
+                    "endColumn": 44,
+                    "endOffset": 12233
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 6608,
+                        "endColumn": 42,
+                        "endOffset": 6648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 12238,
+                    "endColumn": 58,
+                    "endOffset": 12292
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 6700,
+                        "endColumn": 56,
+                        "endOffset": 6754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 12297,
+                    "endColumn": 52,
+                    "endOffset": 12345
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 7437,
+                        "endColumn": 50,
+                        "endOffset": 7485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 12350,
+                    "endColumn": 73,
+                    "endOffset": 12419
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 7092,
+                        "endColumn": 71,
+                        "endOffset": 7161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 12424,
+                    "endColumn": 69,
+                    "endOffset": 12489
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 7165,
+                        "endColumn": 67,
+                        "endOffset": 7230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 12494,
+                    "endColumn": 49,
+                    "endOffset": 12539
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 6989,
+                        "endColumn": 47,
+                        "endOffset": 7034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 12544,
+                    "endColumn": 48,
+                    "endOffset": 12588
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 7285,
+                        "endColumn": 46,
+                        "endOffset": 7329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 12593,
+                    "endColumn": 48,
+                    "endOffset": 12637
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 6890,
+                        "endColumn": 46,
+                        "endOffset": 6934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 12642,
+                    "endColumn": 62,
+                    "endOffset": 12700
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 6419,
+                        "endColumn": 60,
+                        "endOffset": 6477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 12705,
+                    "endColumn": 57,
+                    "endOffset": 12758
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 6551,
+                        "endColumn": 55,
+                        "endOffset": 6604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 12763,
+                    "endColumn": 61,
+                    "endOffset": 12820
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 6758,
+                        "endColumn": 59,
+                        "endOffset": 6815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 12825,
+                    "endColumn": 71,
+                    "endOffset": 12892
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 6819,
+                        "endColumn": 69,
+                        "endOffset": 6886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 12897,
+                    "endColumn": 48,
+                    "endOffset": 12941
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 6652,
+                        "endColumn": 46,
+                        "endOffset": 6696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 12946,
+                    "endColumn": 70,
+                    "endOffset": 13012
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 6481,
+                        "endColumn": 68,
+                        "endOffset": 6547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 13017,
+                    "endColumn": 51,
+                    "endOffset": 13064
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 6938,
+                        "endColumn": 49,
+                        "endOffset": 6985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 13069,
+                    "endColumn": 52,
+                    "endOffset": 13117
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 7333,
+                        "endColumn": 50,
+                        "endOffset": 7381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 13122,
+                    "endColumn": 58,
+                    "endOffset": 13176
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 2,
+                        "startOffset": 17886,
+                        "endColumn": 56,
+                        "endOffset": 17940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 13181,
+                    "endColumn": 54,
+                    "endOffset": 13231
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 7038,
+                        "endColumn": 52,
+                        "endOffset": 7088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 13236,
+                    "endColumn": 67,
+                    "endOffset": 13299
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 6352,
+                        "endColumn": 65,
+                        "endOffset": 6415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 13304,
+                    "endColumn": 52,
+                    "endOffset": 13352
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 7385,
+                        "endColumn": 50,
+                        "endOffset": 7433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 13357,
+                    "endColumn": 51,
+                    "endOffset": 13404
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 7234,
+                        "endColumn": 49,
+                        "endOffset": 7281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 13409,
+                    "endColumn": 59,
+                    "endOffset": 13464
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 2,
+                        "startOffset": 15440,
+                        "endColumn": 57,
+                        "endOffset": 15495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 13469,
+                    "endColumn": 64,
+                    "endOffset": 13529
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 2,
+                        "startOffset": 15546,
+                        "endColumn": 62,
+                        "endOffset": 15606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 13534,
+                    "endColumn": 39,
+                    "endOffset": 13569
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 1504,
+                        "endColumn": 37,
+                        "endOffset": 1539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 13574,
+                    "endColumn": 40,
+                    "endOffset": 13610
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 2,
+                        "startOffset": 11473,
+                        "endColumn": 38,
+                        "endOffset": 11509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 13615,
+                    "endColumn": 73,
+                    "endOffset": 13684
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 5047,
+                        "endColumn": 71,
+                        "endOffset": 5116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 13689,
+                    "endColumn": 34,
+                    "endOffset": 13719
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 4076,
+                        "endColumn": 32,
+                        "endOffset": 4106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 13724,
+                    "endColumn": 78,
+                    "endOffset": 13798
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 2,
+                        "startOffset": 10797,
+                        "endColumn": 76,
+                        "endOffset": 10871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 13803,
+                    "endColumn": 99,
+                    "endOffset": 13898
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 2,
+                        "startOffset": 13271,
+                        "endColumn": 97,
+                        "endOffset": 13366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 13903,
+                    "endColumn": 71,
+                    "endOffset": 13970
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 2,
+                        "startOffset": 13124,
+                        "endColumn": 69,
+                        "endOffset": 13191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 13975,
+                    "endLine": 160,
+                    "endColumn": 83,
+                    "endOffset": 14229
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 3439,
+                        "endLine": 47,
+                        "endColumn": 83,
+                        "endOffset": 3697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 14234,
+                    "endColumn": 71,
+                    "endOffset": 14301
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 3041,
+                        "endColumn": 69,
+                        "endOffset": 3108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 14306,
+                    "endColumn": 50,
+                    "endOffset": 14352
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 3743,
+                        "endColumn": 48,
+                        "endOffset": 3789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 14357,
+                    "endColumn": 170,
+                    "endOffset": 14523
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 2,
+                        "startOffset": 15610,
+                        "endColumn": 168,
+                        "endOffset": 15776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 14528,
+                    "endColumn": 44,
+                    "endOffset": 14568
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1901,
+                        "endColumn": 42,
+                        "endOffset": 1941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 14573,
+                    "endColumn": 86,
+                    "endOffset": 14655
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1945,
+                        "endColumn": 84,
+                        "endOffset": 2027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 14660,
+                    "endColumn": 33,
+                    "endOffset": 14689
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 4008,
+                        "endColumn": 31,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 14694,
+                    "endColumn": 74,
+                    "endOffset": 14764
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 4589,
+                        "endColumn": 72,
+                        "endOffset": 4659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 14769,
+                    "endColumn": 76,
+                    "endOffset": 14841
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 2,
+                        "startOffset": 18233,
+                        "endColumn": 74,
+                        "endOffset": 18305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 14846,
+                    "endColumn": 40,
+                    "endOffset": 14882
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 1384,
+                        "endColumn": 38,
+                        "endOffset": 1420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 14887,
+                    "endColumn": 50,
+                    "endOffset": 14933
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 4364,
+                        "endColumn": 48,
+                        "endOffset": 4410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 14938,
+                    "endColumn": 76,
+                    "endOffset": 15010
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 2,
+                        "startOffset": 13195,
+                        "endColumn": 74,
+                        "endOffset": 13267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 15015,
+                    "endColumn": 82,
+                    "endOffset": 15093
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 4899,
+                        "endColumn": 80,
+                        "endOffset": 4977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 15098,
+                    "endColumn": 65,
+                    "endOffset": 15159
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 4834,
+                        "endColumn": 63,
+                        "endOffset": 4895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 15164,
+                    "endColumn": 39,
+                    "endOffset": 15199
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 2,
+                        "startOffset": 11977,
+                        "endColumn": 37,
+                        "endOffset": 12012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 15204,
+                    "endColumn": 52,
+                    "endOffset": 15252
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 2,
+                        "startOffset": 12184,
+                        "endColumn": 50,
+                        "endOffset": 12232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 15257,
+                    "endColumn": 97,
+                    "endOffset": 15350
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 2,
+                        "startOffset": 12236,
+                        "endColumn": 95,
+                        "endOffset": 12329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 15355,
+                    "endColumn": 53,
+                    "endOffset": 15404
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 2,
+                        "startOffset": 12333,
+                        "endColumn": 51,
+                        "endOffset": 12382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 15409,
+                    "endColumn": 99,
+                    "endOffset": 15504
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 2,
+                        "startOffset": 12386,
+                        "endColumn": 97,
+                        "endOffset": 12481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 15509,
+                    "endColumn": 45,
+                    "endOffset": 15550
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 2,
+                        "startOffset": 11428,
+                        "endColumn": 43,
+                        "endOffset": 11469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 15555,
+                    "endColumn": 82,
+                    "endOffset": 15633
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 2,
+                        "startOffset": 11551,
+                        "endColumn": 80,
+                        "endOffset": 11629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 15638,
+                    "endColumn": 126,
+                    "endOffset": 15760
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 2,
+                        "startOffset": 11774,
+                        "endColumn": 124,
+                        "endOffset": 11896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 15765,
+                    "endColumn": 141,
+                    "endOffset": 15902
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 2,
+                        "startOffset": 11633,
+                        "endColumn": 139,
+                        "endOffset": 11770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 15907,
+                    "endColumn": 50,
+                    "endOffset": 15953
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 4179,
+                        "endColumn": 48,
+                        "endOffset": 4225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 15958,
+                    "endColumn": 77,
+                    "endOffset": 16031
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 5523,
+                        "endColumn": 75,
+                        "endOffset": 5596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 16036,
+                    "endColumn": 69,
+                    "endOffset": 16101
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 4110,
+                        "endColumn": 67,
+                        "endOffset": 4175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 16106,
+                    "endColumn": 64,
+                    "endOffset": 16166
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 5459,
+                        "endColumn": 62,
+                        "endOffset": 5519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 16171,
+                    "endColumn": 73,
+                    "endOffset": 16240
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 2,
+                        "startOffset": 15269,
+                        "endColumn": 71,
+                        "endOffset": 15338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 16245,
+                    "endLine": 189,
+                    "endColumn": 32,
+                    "endOffset": 16340
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 6252,
+                        "endLine": 85,
+                        "endColumn": 32,
+                        "endOffset": 6348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 16345,
+                    "endLine": 192,
+                    "endColumn": 91,
+                    "endOffset": 16591
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 2,
+                        "startOffset": 14855,
+                        "endLine": 208,
+                        "endColumn": 91,
+                        "endOffset": 15103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 16596,
+                    "endColumn": 73,
+                    "endOffset": 16665
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 2,
+                        "startOffset": 14782,
+                        "endColumn": 71,
+                        "endOffset": 14851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 16670,
+                    "endLine": 196,
+                    "endColumn": 57,
+                    "endOffset": 16885
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 2,
+                        "startOffset": 14513,
+                        "endLine": 203,
+                        "endColumn": 57,
+                        "endOffset": 14730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 16890,
+                    "endColumn": 141,
+                    "endOffset": 17027
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 6020,
+                        "endColumn": 139,
+                        "endOffset": 6157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 17032,
+                    "endColumn": 54,
+                    "endOffset": 17082
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 2,
+                        "startOffset": 13860,
+                        "endColumn": 52,
+                        "endOffset": 13910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 17087,
+                    "endLine": 201,
+                    "endColumn": 90,
+                    "endOffset": 17243
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 2,
+                        "startOffset": 15107,
+                        "endLine": 211,
+                        "endColumn": 90,
+                        "endOffset": 15265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 17248,
+                    "endColumn": 67,
+                    "endOffset": 17311
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 5600,
+                        "endColumn": 65,
+                        "endOffset": 5663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 17316,
+                    "endColumn": 140,
+                    "endOffset": 17452
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 5667,
+                        "endColumn": 138,
+                        "endOffset": 5803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 17457,
+                    "endColumn": 99,
+                    "endOffset": 17552
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 5921,
+                        "endColumn": 97,
+                        "endOffset": 6016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 17557,
+                    "endColumn": 114,
+                    "endOffset": 17667
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 5807,
+                        "endColumn": 112,
+                        "endOffset": 5917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 17672,
+                    "endColumn": 110,
+                    "endOffset": 17778
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 2,
+                        "startOffset": 13750,
+                        "endColumn": 108,
+                        "endOffset": 13856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 17783,
+                    "endColumn": 58,
+                    "endOffset": 17837
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 2,
+                        "startOffset": 15894,
+                        "endColumn": 56,
+                        "endOffset": 15948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 17842,
+                    "endColumn": 63,
+                    "endOffset": 17901
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 2,
+                        "startOffset": 13914,
+                        "endColumn": 61,
+                        "endOffset": 13973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 17906,
+                    "endColumn": 42,
+                    "endOffset": 17944
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 2,
+                        "startOffset": 14026,
+                        "endColumn": 40,
+                        "endOffset": 14064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 17949,
+                    "endLine": 212,
+                    "endColumn": 84,
+                    "endOffset": 18189
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 2,
+                        "startOffset": 14267,
+                        "endLine": 200,
+                        "endColumn": 84,
+                        "endOffset": 14509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 18194,
+                    "endColumn": 63,
+                    "endOffset": 18253
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 2,
+                        "startOffset": 13687,
+                        "endColumn": 61,
+                        "endOffset": 13746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 18258,
+                    "endLine": 215,
+                    "endColumn": 13,
+                    "endOffset": 18351
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 2,
+                        "startOffset": 15342,
+                        "endLine": 214,
+                        "endColumn": 13,
+                        "endOffset": 15436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 18356,
+                    "endColumn": 49,
+                    "endOffset": 18401
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 2,
+                        "startOffset": 13977,
+                        "endColumn": 47,
+                        "endOffset": 14022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 18406,
+                    "endColumn": 68,
+                    "endOffset": 18470
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 4414,
+                        "endColumn": 66,
+                        "endOffset": 4478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 18475,
+                    "endColumn": 40,
+                    "endOffset": 18511
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 2,
+                        "startOffset": 13647,
+                        "endColumn": 38,
+                        "endOffset": 13683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 18516,
+                    "endColumn": 90,
+                    "endOffset": 18602
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 2,
+                        "startOffset": 12855,
+                        "endColumn": 88,
+                        "endOffset": 12941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 18607,
+                    "endColumn": 80,
+                    "endOffset": 18683
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 2,
+                        "startOffset": 16666,
+                        "endColumn": 78,
+                        "endOffset": 16742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 18688,
+                    "endColumn": 58,
+                    "endOffset": 18742
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 2,
+                        "startOffset": 15780,
+                        "endColumn": 56,
+                        "endOffset": 15834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 18747,
+                    "endColumn": 152,
+                    "endOffset": 18895
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 2,
+                        "startOffset": 16817,
+                        "endColumn": 150,
+                        "endOffset": 16965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 18900,
+                    "endColumn": 71,
+                    "endOffset": 18967
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 2,
+                        "startOffset": 16746,
+                        "endColumn": 69,
+                        "endOffset": 16813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 18972,
+                    "endColumn": 39,
+                    "endOffset": 19007
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 8817,
+                        "endColumn": 37,
+                        "endOffset": 8852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 19012,
+                    "endColumn": 105,
+                    "endOffset": 19113
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 8856,
+                        "endColumn": 103,
+                        "endOffset": 8957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 19118,
+                    "endColumn": 242,
+                    "endOffset": 19356
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 2,
+                        "startOffset": 11186,
+                        "endColumn": 240,
+                        "endOffset": 11424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 19361,
+                    "endColumn": 60,
+                    "endOffset": 19417
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 8492,
+                        "endColumn": 58,
+                        "endOffset": 8548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 19422,
+                    "endColumn": 62,
+                    "endOffset": 19480
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 2917,
+                        "endColumn": 60,
+                        "endOffset": 2975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 19485,
+                    "endColumn": 100,
+                    "endOffset": 19581
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 98,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 19586,
+                    "endColumn": 103,
+                    "endOffset": 19685
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 250,
+                        "endColumn": 101,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 19690,
+                    "endColumn": 95,
+                    "endOffset": 19781
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 155,
+                        "endColumn": 93,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 19786,
+                    "endColumn": 77,
+                    "endOffset": 19859
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 2,
+                        "startOffset": 11900,
+                        "endColumn": 75,
+                        "endOffset": 11973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 19864,
+                    "endColumn": 67,
+                    "endOffset": 19927
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 5392,
+                        "endColumn": 65,
+                        "endOffset": 5455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 19932,
+                    "endColumn": 67,
+                    "endOffset": 19995
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 9713,
+                        "endColumn": 65,
+                        "endOffset": 9776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 20000,
+                    "endColumn": 57,
+                    "endOffset": 20053
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 2,
+                        "startOffset": 11022,
+                        "endColumn": 55,
+                        "endOffset": 11075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 20058,
+                    "endColumn": 72,
+                    "endOffset": 20126
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 8626,
+                        "endColumn": 70,
+                        "endOffset": 8694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 20131,
+                    "endColumn": 119,
+                    "endOffset": 20246
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 8698,
+                        "endColumn": 117,
+                        "endOffset": 8813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 20251,
+                    "endColumn": 38,
+                    "endOffset": 20285
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 2,
+                        "startOffset": 11513,
+                        "endColumn": 36,
+                        "endOffset": 11547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 20290,
+                    "endColumn": 123,
+                    "endOffset": 20409
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 2,
+                        "startOffset": 12644,
+                        "endColumn": 121,
+                        "endOffset": 12763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 20414,
+                    "endLine": 241,
+                    "endColumn": 13,
+                    "endOffset": 20484
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 2,
+                        "startOffset": 12569,
+                        "endLine": 174,
+                        "endColumn": 13,
+                        "endOffset": 12640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 20489,
+                    "endLine": 244,
+                    "endColumn": 13,
+                    "endOffset": 20567
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 2,
+                        "startOffset": 12485,
+                        "endLine": 172,
+                        "endColumn": 13,
+                        "endOffset": 12565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 20572,
+                    "endColumn": 88,
+                    "endOffset": 20656
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 2,
+                        "startOffset": 12767,
+                        "endColumn": 86,
+                        "endOffset": 12851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 20661,
+                    "endColumn": 53,
+                    "endOffset": 20710
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 2,
+                        "startOffset": 17944,
+                        "endColumn": 51,
+                        "endOffset": 17993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 20715,
+                    "endColumn": 91,
+                    "endOffset": 20802
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 2,
+                        "startOffset": 18375,
+                        "endColumn": 89,
+                        "endOffset": 18462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 20807,
+                    "endColumn": 99,
+                    "endOffset": 20902
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 2,
+                        "startOffset": 17647,
+                        "endColumn": 97,
+                        "endOffset": 17742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 20907,
+                    "endColumn": 112,
+                    "endOffset": 21015
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 2,
+                        "startOffset": 17535,
+                        "endColumn": 110,
+                        "endOffset": 17643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 21020,
+                    "endColumn": 67,
+                    "endOffset": 21083
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 2,
+                        "startOffset": 17997,
+                        "endColumn": 65,
+                        "endOffset": 18060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 21088,
+                    "endColumn": 76,
+                    "endOffset": 21160
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 2,
+                        "startOffset": 17746,
+                        "endColumn": 74,
+                        "endOffset": 17818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 21165,
+                    "endColumn": 96,
+                    "endOffset": 21257
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 2,
+                        "startOffset": 18064,
+                        "endColumn": 94,
+                        "endOffset": 18156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 21262,
+                    "endColumn": 66,
+                    "endOffset": 21324
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 2,
+                        "startOffset": 18309,
+                        "endColumn": 64,
+                        "endOffset": 18371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 21329,
+                    "endColumn": 64,
+                    "endOffset": 21389
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 2,
+                        "startOffset": 17822,
+                        "endColumn": 62,
+                        "endOffset": 17882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 21394,
+                    "endColumn": 73,
+                    "endOffset": 21463
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 2,
+                        "startOffset": 18160,
+                        "endColumn": 71,
+                        "endOffset": 18229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 21468,
+                    "endColumn": 82,
+                    "endOffset": 21546
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 2198,
+                        "endColumn": 80,
+                        "endOffset": 2276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 21551,
+                    "endColumn": 117,
+                    "endOffset": 21664
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 2280,
+                        "endColumn": 115,
+                        "endOffset": 2393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 21669,
+                    "endColumn": 154,
+                    "endOffset": 21819
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 2,
+                        "startOffset": 17110,
+                        "endColumn": 152,
+                        "endOffset": 17260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 21824,
+                    "endColumn": 88,
+                    "endOffset": 21908
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 2,
+                        "startOffset": 17022,
+                        "endColumn": 86,
+                        "endOffset": 17106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 21913,
+                    "endColumn": 55,
+                    "endOffset": 21964
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 4482,
+                        "endColumn": 53,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 21969,
+                    "endColumn": 52,
+                    "endOffset": 22017
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 4537,
+                        "endColumn": 50,
+                        "endOffset": 4585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 22022,
+                    "endColumn": 38,
+                    "endOffset": 22056
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 2,
+                        "startOffset": 13507,
+                        "endColumn": 36,
+                        "endOffset": 13541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 22061,
+                    "endColumn": 130,
+                    "endOffset": 22187
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 2,
+                        "startOffset": 9780,
+                        "endColumn": 128,
+                        "endOffset": 9906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 22192,
+                    "endColumn": 99,
+                    "endOffset": 22287
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 2,
+                        "startOffset": 10005,
+                        "endColumn": 97,
+                        "endOffset": 10100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 22292,
+                    "endColumn": 95,
+                    "endOffset": 22383
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 2,
+                        "startOffset": 9910,
+                        "endColumn": 93,
+                        "endOffset": 10001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 22388,
+                    "endColumn": 48,
+                    "endOffset": 22432
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 2,
+                        "startOffset": 14734,
+                        "endColumn": 46,
+                        "endOffset": 14778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 22437,
+                    "endColumn": 49,
+                    "endOffset": 22482
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 2,
+                        "startOffset": 13545,
+                        "endColumn": 47,
+                        "endOffset": 13590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 22487,
+                    "endLine": 270,
+                    "endColumn": 68,
+                    "endOffset": 22680
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 2,
+                        "startOffset": 14068,
+                        "endLine": 197,
+                        "endColumn": 68,
+                        "endOffset": 14263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 22685,
+                    "endColumn": 53,
+                    "endOffset": 22734
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 2,
+                        "startOffset": 13594,
+                        "endColumn": 51,
+                        "endOffset": 13643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 22739,
+                    "endColumn": 47,
+                    "endOffset": 22782
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 2,
+                        "startOffset": 15499,
+                        "endColumn": 45,
+                        "endOffset": 15542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 22787,
+                    "endColumn": 53,
+                    "endOffset": 22836
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 2,
+                        "startOffset": 16969,
+                        "endColumn": 51,
+                        "endOffset": 17018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 22841,
+                    "endColumn": 62,
+                    "endOffset": 22899
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 2031,
+                        "endColumn": 60,
+                        "endOffset": 2089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 22904,
+                    "endColumn": 105,
+                    "endOffset": 23005
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 2093,
+                        "endColumn": 103,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 23010,
+                    "endColumn": 79,
+                    "endOffset": 23085
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 1543,
+                        "endColumn": 77,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 23090,
+                    "endColumn": 101,
+                    "endOffset": 23187
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 1622,
+                        "endColumn": 99,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 23192,
+                    "endColumn": 61,
+                    "endOffset": 23249
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 2,
+                        "startOffset": 10153,
+                        "endColumn": 59,
+                        "endOffset": 10210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 23254,
+                    "endColumn": 89,
+                    "endOffset": 23339
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 2,
+                        "startOffset": 10708,
+                        "endColumn": 87,
+                        "endOffset": 10793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 23344,
+                    "endColumn": 48,
+                    "endOffset": 23388
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 1336,
+                        "endColumn": 46,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 23393,
+                    "endColumn": 49,
+                    "endOffset": 23438
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 2,
+                        "startOffset": 10104,
+                        "endColumn": 47,
+                        "endOffset": 10149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 23443,
+                    "endColumn": 42,
+                    "endOffset": 23481
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 996,
+                        "endColumn": 40,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 23486,
+                    "endColumn": 76,
+                    "endOffset": 23558
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 2,
+                        "startOffset": 9637,
+                        "endColumn": 74,
+                        "endOffset": 9709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 23563,
+                    "endColumn": 51,
+                    "endOffset": 23610
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 2,
+                        "startOffset": 10971,
+                        "endColumn": 49,
+                        "endOffset": 11018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 23615,
+                    "endColumn": 96,
+                    "endOffset": 23707
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 2,
+                        "startOffset": 10362,
+                        "endColumn": 94,
+                        "endOffset": 10454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 23712,
+                    "endColumn": 35,
+                    "endOffset": 23743
+                },
+                "from": {
+                    "file": "C:\\Phonemetra\\TurboStore\\app\\res\\values-pt-rBR\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 4041,
+                        "endColumn": 33,
+                        "endOffset": 4072
+                    }
+                }
+            }
+        ]
+    }
+]

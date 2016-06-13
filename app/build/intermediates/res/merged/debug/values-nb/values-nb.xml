@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Children">Barn</string>
+    <string name="Development">Utvikling</string>
+    <string name="Games">Spill</string>
+    <string name="Internet">Internett</string>
+    <string name="Mathematics">Matematikk</string>
+    <string name="Multimedia">Multimedia</string>
+    <string name="Navigation">Navigasjon</string>
+    <string name="News">Nyheter</string>
+    <string name="Office">Kontor</string>
+    <string name="Phone_SMS">Telefon og SMS</string>
+    <string name="Reading">Leser</string>
+    <string name="Science_Education">Vitenskap &amp; Opplæring</string>
+    <string name="Security">Sikkerhet</string>
+    <string name="SignatureMismatch">Den nye versjonen er signert med en annen nøkkel enn den gamle. For å installere en ny versjon må du først avinstallere den gamle. (Å avinstallere vil føre til at all intern data lagret av applikasjonen, blir slettet)</string>
+    <string name="System">System</string>
+    <string name="Wallpaper">Bakgrunn</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string name="about_desc">Lisensiert GNU GPLv3.</string>
+    <string name="about_mail">E-post:</string>
+    <string name="about_site">Nettside:</string>
+    <string name="about_title">Om Turbo Store</string>
+    <string name="about_version">Versjon:</string>
+    <string name="about_website">Nettside</string>
+    <string name="add_key">Legg til nøkkel</string>
+    <string name="added_on">Lagt til %s</string>
+    <string name="adding_apks_format">Legger til %s til pakkebrønn…</string>
+    <string name="all_other_repos_fine">Alle de andre pakkebrønnene lagde ikke noe krøll.</string>
+    <string name="antiadslist">Dette programmet inneholder reklame</string>
+    <string name="antinonfreeadlist">Dette programmet promoterer ufrie utvidelser</string>
+    <string name="antinonfreedeplist">Dette programmet avhenger av andre ufrie applikasjoner</string>
+    <string name="antinonfreenetlist">Dette programmet promoterer ufrie nettverkstjenester</string>
+    <string name="antitracklist">Dette programmet sporer din aktivitet</string>
+    <string name="antiupstreamnonfreelist">Koden fra kilden er ikke helt fri</string>
+    <string name="app_description">F-droid er en ansamling fri programvare som kan installeres på Android-plattformen. Klienten gjør det enkelt å sjekke ut, installere og holde øye med oppdateringer på din enhet.</string>
+    <string name="app_details">Programdetaljer</string>
+    <string name="app_icon">App ikon</string>
+    <string name="appcompatibility">Programstøtte</string>
+    <string name="automatic_scan_wifi">Bare på trådløst</string>
+    <string name="automatic_scan_wifi_on">Oppdater applikasjoner automatisk kun på trådløst</string>
+    <string name="bluetooth_activity_not_found">Ingen forsendelsesmåte for blåtann funnet, velg en!</string>
+    <string name="cache_downloaded">Lagre nedlastede applikasjoner i buffer</string>
+    <string name="cache_downloaded_on">Behold nedlastede apk-filer på minnekortet</string>
+    <string name="cancel">Avbryt</string>
+    <string name="category_all">Alle</string>
+    <string name="category_recentlyupdated">Nylig oppdatert</string>
+    <string name="category_whatsnew">Det som er nytt</string>
+    <string name="choose_bt_send">Velg forsendelsesmåte for Blåtann</string>
+    <string name="compactlayout">Kompakt layout</string>
+    <string name="compactlayout_on">Vis ikoner i mindre størrelse</string>
+    <string name="copying_icons">Kopierer program-ikoner til pakkebrønnen…</string>
+    <string name="corrupt_download">Nedlastet fil er korrupt</string>
+    <string name="delete">Slett</string>
+    <string name="deleting_repo">Sletter gjeldende pakkebrønn…</string>
+    <string name="details_installed">Versjon %s installert</string>
+    <string name="details_notinstalled">Ikke installert</string>
+    <string name="display">Vis</string>
+    <string name="download_cancelled">Nedlasting avbrutt</string>
+    <string name="download_server">Henter program fra</string>
+    <string name="edit">Rediger</string>
+    <string name="enable">Skru på</string>
+    <string name="enable_nfc_send">Skru på NFC-sending</string>
+    <string name="enable_proxy_summary">Konfigurer HTTP-mellomtjener for alle nettverksforespørsler.</string>
+    <string name="enable_proxy_title">Skru på HTTP-mellomtjener</string>
+    <string name="enable_wifi">Skru på Wi-Fi</string>
+    <string name="enabling_wifi">Skrur på WiFi…</string>
+    <string name="expert">Ekspert</string>
+    <string name="expert_on">Hvis ekstra info og skru på ekstra innstillinger</string>
+    <string name="failed_to_create_index">Klarte ikke å indeksere pakkebrønn!</string>
+    <string name="fdroid_updates_available">Turbo Store: Oppdateringer tilgjengelig</string>
+    <string name="fingerprint">Fingeravtrykk:</string>
+    <string name="global_error_updating_repos">Feil under oppdatering:</string>
+    <string name="go_to_nfc_settings">Gå til NFC-innstillinger</string>
+    <string name="icon">ikon</string>
+    <string name="ignoreTouch">Ignorer pekeskjerm</string>
+    <string name="ignoreTouch_on">Alltid inkluder app-er som krever pekeskjerm</string>
+    <string name="inst">Installert</string>
+    <string name="inst_known_source">Installert (fra %s)</string>
+    <string name="inst_unknown_source">Installert (fra ukjent kilde)</string>
+    <string name="installDowngrade">Du prøver å nedgradere denne applikasjonen. Dette kan føre til at applikasjonen henger, og du kan til og med miste dine data. Vil du prøve å nedgradere likevel?</string>
+    <string name="installIncompatible">Det ser ut til at denne pakken ikke er kompatibel med ditt utstyr. Vil du prøve å installere det likevel?</string>
+    <string name="last_update_check">Forrige oppdatering av pakkebrønn: %s</string>
+    <string name="linking_apks">Lenker APK-er inn i pakkebrønn…</string>
+    <string name="local_repo">Lokal pakkebrønn</string>
+    <string name="local_repo_bonjour">Kringkast lokal pakkebrønn</string>
+    <string name="local_repo_bonjour_on">Reklamer for din lokale pakkebrønn ved bruk av Bonjour (mDNS)</string>
+    <string name="local_repo_https">Bruk privat tilkobling</string>
+    <string name="local_repo_https_on">Bruk sikret HTTP://-tilkobling for lokal pakkebrønn</string>
+    <string name="local_repo_name">Navn på lokal pakkebrønn</string>
+    <string name="local_repo_name_summary">Offentliggjort tittel for din lokale pakkebrønn: %s</string>
+    <string name="local_repo_running">Sirkulering av programmer kan begynne</string>
+    <string name="local_repos_scanning">Oppdager lokale Turbo Store register…</string>
+    <string name="local_repos_title">Lokale Turbo Store register</string>
+    <string name="malformed_repo_uri">Ignorerer ugyldig registernettadresse: %s</string>
+    <string name="many_updates_available">%d oppdateringer tilgjengelig.</string>
+    <string name="menu_about">Om</string>
+    <string name="menu_add_repo">Nytt register</string>
+    <string name="menu_donate">Doner</string>
+    <string name="menu_ignore_all">Ignorer alle oppdateringer</string>
+    <string name="menu_ignore_this">Ignorer denne oppdateringen</string>
+    <string name="menu_install">Installer</string>
+    <string name="menu_issues">Problemoversikt</string>
+    <string name="menu_launch">Kjør</string>
+    <string name="menu_manage">Endre registrene</string>
+    <string name="menu_preferences">Innstillinger</string>
+    <string name="menu_rem_repo">Fjern register</string>
+    <string name="menu_scan_repo">Finn lokale register</string>
+    <string name="menu_search">Søk</string>
+    <string name="menu_send_apk_bt">Blåtann TurboStore.apk…</string>
+    <string name="menu_share">Del</string>
+    <string name="menu_source">Kildekode</string>
+    <string name="menu_swap">Sirkuler programvare</string>
+    <string name="menu_uninstall">Avinstaller</string>
+    <string name="menu_update_repo">Oppdater registrene</string>
+    <string name="menu_upgrade">Oppgrader</string>
+    <string name="menu_website">Nettside</string>
+    <string name="minsdk_or_later">%s eller senere</string>
+    <string name="minsdk_up_to_maxsdk">%1$s opptil %2$s</string>
+    <string name="never">aldri</string>
+    <string name="next">Neste</string>
+    <string name="nfc_is_not_enabled">NFC (nærfeltskommunikasjon) er ikke påskrudd!</string>
+    <string name="no">Nei</string>
+    <string name="no_applications_found">Ingen applikasjoner funnet</string>
+    <string name="no_handler_app">Du har ingen tilgjengelige applikasjoner som kan håndtere %s</string>
+    <string name="no_permissions">Krever ingen tillatelser.</string>
+    <string name="no_repo">Du har ikke angitt noen pakkebrønner! En pakkebrønn er en kilde til applikasjoner. For å legge til en pakkebrønn, trykk på MENY-knappen nå, og skriv inn adresse. En pakkebrønnsadresse ser slik ut: https://f-droid.org/repo</string>
+    <string name="no_such_app">Program ikke funnet</string>
+    <string name="not_inst">Ikke installert</string>
+    <string name="not_on_same_wifi">Din enhet er ikke på det samme lokale WiFi-nettet som registret du nettopp la til! Prøv å koble til dette nettverket: %s</string>
+    <string name="notify">Varsle</string>
+    <string name="notify_on">Varsle når nye oppdateringer er tilgjengelige</string>
+    <string name="ok">OK</string>
+    <string name="one_update_available">1 oppdatering tilgjengelig.</string>
+    <string name="open_qr_code_scanner">Åpne QR-kode-skanner</string>
+    <string name="other">Andre</string>
+    <string name="overwrite">Overskriv</string>
+    <string name="permissions_for_long">Tillatelser for versjon %s</string>
+    <string name="process_update_msg">Oppdaterer applikasjonsliste…</string>
+    <string name="process_wait_title">Vennligst vent</string>
+    <string name="proxy">Mellomtjener</string>
+    <string name="proxy_host">Mellomtjener-vert</string>
+    <string name="proxy_host_summary">Sett opp tjenernavn for din mellomtjener (f.eks. 127.0.0.1)</string>
+    <string name="proxy_port">Mellomtjener-port</string>
+    <string name="proxy_port_summary">Sett opp portnummer for din mellomtjener (f.eks. 8118)</string>
+    <string name="qr_code">QR Kode</string>
+    <string name="qr_content_description">QR-kode for pakkebrønnens nettadresse</string>
+    <string name="qr_wizard_download_instructions">Skann denne QR-koden for å koble til nettsiden for å komme i gang.</string>
+    <string name="qr_wizard_wifi_network_instructions">Skann denne QR-koden for å koble til samme Wi-Fi nettverk som denne enheten.</string>
+    <string name="repo_add_add">Legg til</string>
+    <string name="repo_add_fingerprint">Fingeravtrykk (valgfritt)</string>
+    <string name="repo_add_title">Legg til ny pakkebrønn</string>
+    <string name="repo_add_url">Pakkebrønnsadresse</string>
+    <string name="repo_added">Lagret Turbo Store-pakkebrønn %1$s</string>
+    <string name="repo_alrt">Listen over brukte register har endret seg. Vil du oppdatere dem?</string>
+    <string name="repo_confirm_delete_body">Sletting av register betyr
+ at applikasjoner derfra ikke lenger vil være tilgjengelige i F-droid.
+
+Merk: Alle
+     tidligere installerte apper vil fremdeles være å finne på din enhet.</string>
+    <string name="repo_confirm_delete_title">Slett register?</string>
+    <string name="repo_delete_details">Vil du slette \"{0}\"
+registret, som har {1} app-er i seg? Alle installerte app-er vil IKKE bli
+fjernet, men det kan ikke oppdatere dem med F-droid lengre.</string>
+    <string name="repo_delete_to_overwrite">Du må først slette dette registret før du kan legge til et med en en annen nøkkel!</string>
+    <string name="repo_description">Beskrivelse</string>
+    <string name="repo_disabled_notification">Avskrudd \"%1$\".
+
+Du må
+       skru på dette registeret igjen for å installere applikasjoner fra det.</string>
+    <string name="repo_exists">Denne pakkebrønnen er allerede lagt til!</string>
+    <string name="repo_exists_add_fingerprint">Dette registret er allerede satt opp, dette vil legge til ny informasjon om nøkler.</string>
+    <string name="repo_exists_and_enabled">Oppstrøms-registret er allerede oppsatt og skrudd på!</string>
+    <string name="repo_exists_enable">Dette registret er allerede satt opp, bekreft at du vil skru det på igjen.</string>
+    <string name="repo_fingerprint">Fingeravtrykk for signeringsnøkkel til register (SHA-256)</string>
+    <string name="repo_icon">Pakkebrønns-ikon</string>
+    <string name="repo_last_update">Siste oppdatering</string>
+    <string name="repo_name">Navn</string>
+    <string name="repo_not_yet_updated">Dette registret har ikke blitt brukt enda.
+For å se app-ene det har tilgjengelig, må du oppdatere det.
+
+Når så er gjort, vil beskrivelser og andre detaljer bli tilgjengelige her.</string>
+    <string name="repo_num_apps">Antall app-er</string>
+    <string name="repo_searching_address">Ser etter Turbo Store-pakkebrønn på %1$s</string>
+    <string name="repo_update">Oppdater</string>
+    <string name="repo_update_title">Oppdater registerne</string>
+    <string name="repo_url">URL</string>
+    <string name="repos_unchanged">Ingen av pakkebrønnene hadde noen oppdateringer</string>
+    <string name="requesting_root_access_body">Etterspørr root-tilgang…</string>
+    <string name="requires_features">Krever: %1$s</string>
+    <string name="root_access_denied_body">Enten mangler din Android-enhet superbrukertilgang, eller så har du nektet F-droid root-tilgang.</string>
+    <string name="root_access_denied_title">Root tilgang nektet</string>
+    <string name="rooted">Rot</string>
+    <string name="rooted_on">Skyggelegg alle app-er som krever superbruker-tilgang</string>
+    <string name="same_wifi_instructions">Sørg for å være på samme Wi-Fi-nettverk som de enhetene du vil koble til. Skriv enten inn nettadressen ovenfor i F-droid, eller skann denne QR-koden:</string>
+    <string name="search_hint">Søk i programliste</string>
+    <string name="search_results">Søkeresultater</string>
+    <string name="searchres_napps">Fant %1$d applikasjoner som matcher \'%2$s\':</string>
+    <string name="searchres_noapps">Fant ingen applikasjoner som matcher \'%s\'</string>
+    <string name="searchres_oneapp">Fant en applikasjon som matcher \'%s\':</string>
+    <string name="send_fdroid_via_wifi">Send Turbo Store over Wi-Fi…</string>
+    <string name="send_via_bluetooth">Send via Blåtann</string>
+    <string name="setup_repo">Sett opp lokal pakkebrønn</string>
+    <string name="sharing_uri">Delings-nettadresse:</string>
+    <string name="show_incompat_versions">Ukompatible versjoner</string>
+    <string name="show_incompat_versions_on">Vis programvareversjoner som ikke er kompatible med enheten</string>
+    <string name="skip">Hopp over</string>
+    <string name="status_checking_compatibility">Sjekker programstøtte for ditt utstyr…</string>
+    <string name="status_connecting_to_repo">Kobler til
+%1$s</string>
+    <string name="status_download">Laster ned
+%2$s / %3$s (%4$d%%) fra
+%1$s</string>
+    <string name="status_inserting">Lagrer programdata (%1$d%%)</string>
+    <string name="swap">Sirkuler programvare</string>
+    <string name="swap_confirm_connect">Ønsker du å hente pakker fra %1$s nå?</string>
+    <string name="swap_join_same_wifi">Koble til samme Wi-Fi-nett som din venn</string>
+    <string name="swap_nfc_description">Hvis din venn holder telefonene deres sammen.</string>
+    <string name="swap_no_wifi_network">Mangler nettverk</string>
+    <string name="swap_use_bluetooth">Bruk Bluetooth istedet</string>
+    <string name="swap_view_available_networks">(Trykk for å åpne tilgjengelige nettverk)</string>
+    <string name="swap_welcome">Velkommen til Turbo Store!</string>
+    <string name="swap_wifi_help">Lær mer om Wi-Fi</string>
+    <string name="swap_wifi_qr_not_working">Det fungerer ikke</string>
+    <string name="system_installer">Installer ved bruk av system-tilgang</string>
+    <string name="system_installer_on">Bruk system rettigheter til å installere, oppdatere, og fjerne applikasjoner.</string>
+    <string name="system_permission_denied_body">Dette valget er bare tilgjengelig når Turbo Store er installert som system-program.</string>
+    <string name="system_permission_denied_title">System-rettigheter avslått</string>
+    <string name="tab_noninstalled">Tilgjengelig</string>
+    <string name="tab_updates">Oppdateringer</string>
+    <string name="theme">Utseende</string>
+    <string name="touch_to_configure_local_repo">Trykk for å se detaljer og for å tillate andre å sirkulere de programmene du har.</string>
+    <string name="touch_to_turn_off_local_repo">Trykk for å skru av din lokale repo.</string>
+    <string name="touch_to_turn_on_local_repo">Trykk for å skru på din lokale pakkebrønn.</string>
+    <string name="unknown">Ukjent</string>
+    <string name="unsigned">Usignert</string>
+    <string name="unsigned_description">Dette betyr at listen over applikasjoner ikke er kontrollert. Du bør være forsiktig med applikasjoner lastet ned fra usignerte lister.</string>
+    <string name="unverified">Ubekreftet</string>
+    <string name="up_to_maxsdk">opptil %s</string>
+    <string name="update_all">Oppdater alle</string>
+    <string name="update_history">Oppdater historikk</string>
+    <string name="update_history_summ">Dager nytt innhold skal anses som ferskt: %s</string>
+    <string name="update_interval">Intervall for automatisk oppdatering</string>
+    <string name="update_interval_zero">Ingen automatiske registerlisteoppdateringer</string>
+    <string name="update_repo">Oppdater pakkebrønn</string>
+    <string name="updated_local_repo">Ferdig med oppdatering av lokal pakkebrønn</string>
+    <string name="updates">Oppdateringer</string>
+    <string name="updating">Oppdaterer…</string>
+    <string name="version">Versjon</string>
+    <string name="waiting_for_ipaddress">venter på IP-adresse:</string>
+    <string name="wifi_network">Wi-Fi-nettverk:</string>
+    <string name="writing_index_jar">Skriver signert indekseringsfil (index.jar)…</string>
+    <string name="yes">Ja</string>
+</resources>

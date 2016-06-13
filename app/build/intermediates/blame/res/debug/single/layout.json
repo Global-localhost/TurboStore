@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\install_confirm.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\install_confirm.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_success_header.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_success_header.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchresults.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\searchresults.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\applistitem.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\applistitem.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\available_app_list.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\available_app_list.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_activity.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_activity.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_nfc.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_nfc.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_details_header.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\app_details_header.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_fragment.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\support-v4-preferencefragment-release\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repodetails.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\repodetails.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\install_start.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\install_start.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\install_app_details.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\install_app_details.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_content.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\list_content.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_learn_about_wifi.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_learn_about_wifi.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_details.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\app_details.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addrepo.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\addrepo.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_details_summary.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\app_details_summary.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\store.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\store.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\apklistitem.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\apklistitem.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\permissions_list.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\permissions_list.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_app_list.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\empty_app_list.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_blank.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_blank.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_local_apps_list_item.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\select_local_apps_list_item.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repodiscoveryitem.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\repodiscoveryitem.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repodiscoverylist.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\repodiscoverylist.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_permission_item.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\app_permission_item.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_perms_summary.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\app_perms_summary.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\repo_item.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\repo_item.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_confirm_receive.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_confirm_receive.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_create_header.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_create_header.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_join_wifi.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_join_wifi.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\swap_wifi_qr.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\swap_wifi_qr.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_permission_item_money.xml",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\layout\\app_permission_item_money.xml"
+    }
+]

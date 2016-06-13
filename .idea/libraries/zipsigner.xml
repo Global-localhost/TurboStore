@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zipsigner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/binaryDeps/zipsigner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

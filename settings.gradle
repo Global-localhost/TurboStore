@@ -1,4 +1,4 @@
-include ':TurboStore'
+include ':app'
 
 if ( hasProperty( 'sourceDeps' ) ) {
 	include ':extern:AndroidPinning'

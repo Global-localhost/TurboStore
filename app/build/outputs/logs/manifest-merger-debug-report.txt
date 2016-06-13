@@ -1,0 +1,676 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:2:1-536:12
+	package
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:4:5-41
+	android:versionName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:7:5-39
+		INJECTED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml
+		INJECTED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:6:5-29
+		INJECTED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml
+		INJECTED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:10:5-14:11
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [org.thoughtcrime.ssl.pinning:AndroidPinning:1.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\org.thoughtcrime.ssl.pinning\AndroidPinning\1.0.0\AndroidManifest.xml:7:5-72
+MERGED from [eu.chainfire:libsuperuser:1.0.0.201602271131] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\eu.chainfire\libsuperuser\1.0.0.201602271131\AndroidManifest.xml:7:5-9:41
+MERGED from [:support-v4-preferencefragment-release:] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\support-v4-preferencefragment-release\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:11:9-61
+	android:targetSdkVersion
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:13:9-38
+	android:minSdkVersion
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:12:9-34
+supports-screens
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:16:5-23:11
+	android:largeScreens
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:18:9-36
+	android:smallScreens
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:21:9-36
+	android:normalScreens
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:19:9-37
+	android:xlargeScreens
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:22:9-37
+	android:resizeable
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:20:9-34
+	android:anyDensity
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:17:9-34
+uses-feature#android.hardware.telephony
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:26:9-50
+uses-feature#android.hardware.wifi
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:29:9-45
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:31:5-33:36
+	android:required
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:33:9-33
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:32:9-52
+uses-feature#android.hardware.nfc
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:35:9-44
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:38:9-50
+uses-permission#android.permission.INTERNET
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:41:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:41:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:42:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:43:5-75
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:43:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:44:5-76
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:44:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:45:5-86
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:45:22-83
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:46:5-76
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:46:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:47:5-68
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:47:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:48:5-81
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:48:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:49:5-81
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:49:22-78
+uses-permission#android.permission.NFC
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:50:5-62
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:50:22-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:53:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:53:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:56:5-81
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:56:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:57:5-79
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:57:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:58:5-71
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:58:22-68
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:61:5-62:46
+	tools:ignore
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:62:9-44
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:61:22-72
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:63:5-64:46
+	tools:ignore
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:64:9-44
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:63:22-71
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:69:5-74
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:69:22-72
+application
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:71:5-534:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [:support-v4-preferencefragment-release:] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\support-v4-preferencefragment-release\AndroidManifest.xml:24:5-20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:74:9-41
+	android:supportsRtl
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:78:9-35
+	android:allowBackup
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:76:9-35
+	android:icon
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:73:9-45
+	android:description
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:75:9-54
+	android:theme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:77:9-45
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:72:9-32
+provider#com.phonemetra.turbo.store.data.AppProvider
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:81:9-84:39
+	android:authorities
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:82:13-78
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:84:13-37
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:83:13-71
+provider#com.phonemetra.turbo.store.data.RepoProvider
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:86:9-89:39
+	android:authorities
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:87:13-79
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:89:13-37
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:88:13-72
+provider#com.phonemetra.turbo.store.data.ApkProvider
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:91:9-94:39
+	android:authorities
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:92:13-78
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:93:13-71
+provider#com.phonemetra.turbo.store.data.InstalledAppProvider
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:96:9-99:39
+	android:authorities
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:97:13-87
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:99:13-37
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:98:13-80
+activity#com.phonemetra.turbo.store.Store
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:101:9-309:20
+	android:launchMode
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:103:13-43
+	android:configChanges
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:104:13-74
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:102:13-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:107:13-111:29
+action#android.intent.action.MAIN
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:108:17-69
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:108:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:110:17-77
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:110:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:113:13-120:29
+action#android.intent.action.VIEW
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:114:17-69
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:114:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:116:17-76
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:116:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:117:17-78
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:117:27-75
+data
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:119:17-53
+	android:scheme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:119:23-50
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:224:13-235:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:225:17-77
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:225:25-74
+meta-data#android.app.default_searchable
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:306:13-308:50
+	android:value
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:308:17-47
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:307:17-62
+activity#com.phonemetra.turbo.store.views.swap.ConnectSwapActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:310:9-321:20
+	android:screenOrientation
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:316:13-49
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:313:13-29
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:315:13-48
+	android:noHistory
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:314:13-37
+	android:configChanges
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:317:13-63
+	android:theme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:312:13-64
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:311:13-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:318:13-320:42
+	android:value
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:320:17-39
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:319:17-63
+activity#com.phonemetra.turbo.store.installer.InstallConfirmActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:322:9-329:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:324:13-49
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:325:13-48
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:323:13-61
+activity#com.phonemetra.turbo.store.views.ManageReposActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:330:9-345:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:332:13-45
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:334:13-48
+	android:launchMode
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:333:13-44
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:331:13-54
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:338:13-344:29
+activity#com.phonemetra.turbo.store.NfcNotEnabledActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:346:9-348:40
+	android:noHistory
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:348:13-37
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:347:13-50
+activity#com.phonemetra.turbo.store.views.RepoDetailsActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:370:9-378:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:372:13-48
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:373:13-68
+	android:windowSoftInputMode
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:374:13-54
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:371:13-54
+activity#com.phonemetra.turbo.store.AppDetails
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:380:9-389:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:382:13-48
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:384:13-48
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:383:13-36
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:381:13-39
+activity#com.phonemetra.turbo.store.views.swap.SwapAppListActivity$SwapAppDetails
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:390:9-397:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:392:13-48
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:393:13-73
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:391:13-74
+activity#com.phonemetra.turbo.store.PreferencesActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:398:9-405:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:399:13-53
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:401:13-48
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:400:13-48
+activity#com.phonemetra.turbo.store.views.swap.SwapActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:406:9-416:20
+	android:screenOrientation
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:411:13-49
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:407:13-46
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:409:13-48
+	android:configChanges
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:412:13-63
+	android:theme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:410:13-52
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:408:13-52
+activity#com.phonemetra.turbo.store.views.swap.SwapAppListActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:417:9-427:20
+	android:screenOrientation
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:422:13-49
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:418:13-41
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:420:13-48
+	android:configChanges
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:423:13-63
+	android:theme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:421:13-53
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:419:13-59
+activity#com.phonemetra.turbo.store.installer.InstallIntoSystemDialogActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:429:9-431:62
+	android:theme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:431:13-59
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:430:13-70
+receiver#com.phonemetra.turbo.store.installer.InstallIntoSystemBootReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:432:9-437:20
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:433:13-68
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:434:13-436:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:435:17-79
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:435:25-76
+activity#com.phonemetra.turbo.store.SearchResults
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:438:9-455:20
+	android:label
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:440:13-51
+	android:parentActivityName
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:443:13-48
+	android:launchMode
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:442:13-43
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:441:13-36
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:439:13-42
+intent-filter#android.intent.action.SEARCH
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:448:13-450:29
+action#android.intent.action.SEARCH
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:449:17-71
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:449:25-68
+meta-data#android.app.searchable
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:452:13-454:54
+	android:resource
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:454:17-51
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:453:17-54
+receiver#com.phonemetra.turbo.store.receiver.StartupReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:457:9-463:20
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:457:19-59
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:458:13-462:29
+category#android.intent.category.HOME
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:461:17-73
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:461:27-70
+receiver#com.phonemetra.turbo.store.receiver.PackageAddedReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:464:9-470:20
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:464:19-64
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:465:13-469:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:466:17-78
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:466:25-75
+receiver#com.phonemetra.turbo.store.receiver.PackageUpgradedReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:471:9-477:20
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:471:19-67
+intent-filter#android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:472:13-476:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:473:17-81
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:473:25-78
+receiver#com.phonemetra.turbo.store.receiver.PackageRemovedReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:478:9-484:20
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:478:19-66
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:479:13-483:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:480:17-80
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:480:25-77
+receiver#com.phonemetra.turbo.store.receiver.WifiStateChangeReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:485:9-489:20
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:485:19-67
+intent-filter#android.net.wifi.STATE_CHANGE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:486:13-488:29
+action#android.net.wifi.STATE_CHANGE
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:487:17-72
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:487:25-69
+service#com.phonemetra.turbo.store.UpdateService
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:491:9-50
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:491:18-47
+service#com.phonemetra.turbo.store.net.WifiStateChangeService
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:492:9-63
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:492:18-60
+service#com.phonemetra.turbo.store.localrepo.LocalRepoService
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:493:9-63
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:493:18-60
+meta-data#com.google.android.gms.version
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:497:9-499:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:499:13-66
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:498:13-58
+activity#com.lqtyukk.gcdqlok220440.AdActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:501:9-505:64
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:504:13-37
+	android:configChanges
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:503:13-59
+	android:theme
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:505:13-61
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:502:13-64
+activity#com.lqtyukk.gcdqlok220440.BrowserActivity
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:506:9-508:62
+	android:configChanges
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:508:13-59
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:507:13-69
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:512:9-517:20
+	android:enabled
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:513:13-35
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:512:19-84
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:514:13-516:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:515:17-94
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:515:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:518:9-520:39
+	android:enabled
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:519:13-35
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:520:13-37
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:518:18-82
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:524:9-529:20
+	android:exported
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:525:13-36
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:524:19-91
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:526:13-528:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:527:17-79
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:527:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:530:9-92
+	android:name
+		ADDED from C:\Phonemetra\TurboStore\app\AndroidManifest.xml:530:18-89
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:9:13-58

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Children">Bambini</string>
+    <string name="Development">Sviluppo</string>
+    <string name="Games">Giochi</string>
+    <string name="Internet">Internet</string>
+    <string name="Mathematics">Matematica</string>
+    <string name="Multimedia">Multimedia</string>
+    <string name="Navigation">Navigazione</string>
+    <string name="News">Novità</string>
+    <string name="Office">Ufficio</string>
+    <string name="Phone_SMS">Telefono e SMS</string>
+    <string name="Reading">Lettura</string>
+    <string name="Science_Education">Scienza &amp; Educazione</string>
+    <string name="Security">Sicurezza</string>
+    <string name="SignatureMismatch">La nuova versione è firmata con una chiave differente rispetto alla vecchia. Per installare la nuova versione occorre prima disinstallare la precedente. Riprovare dopo aver disinstallato. (Attenzione! Disistallando si cancellerà qualsiasi dato salvato dall\'applicazione)</string>
+    <string name="System">Sistema</string>
+    <string name="Wallpaper">Wallpaper</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string name="about_desc">Rilasciato sotto licenza GNU GPLv3.</string>
+    <string name="about_mail">Email:</string>
+    <string name="about_site">Sito Web:</string>
+    <string name="about_title">Informazioni</string>
+    <string name="about_version">Versione:</string>
+    <string name="about_website">Sito Web</string>
+    <string name="add_key">Aggiungi chiave</string>
+    <string name="added_on">Aggiunto il %s</string>
+    <string name="adding_apks_format">Aggiungo %s alla repo…</string>
+    <string name="all_other_repos_fine">Tutte le altre repo non hanno generato errori.</string>
+    <string name="antiadslist">Questa app contiene pubblicità</string>
+    <string name="antinonfreeadlist">Questa app promuove add-on non liberi</string>
+    <string name="antinonfreedeplist">Questa app dipende da applicazioni non libere</string>
+    <string name="antinonfreenetlist">Questa app promuove servizi di rete non liberi</string>
+    <string name="antitracklist">Questa app monitora e riferisce sulle tue attività</string>
+    <string name="antiupstreamnonfreelist">Il codice sorgente a monte non è completamente libero</string>
+    <string name="app_description">Turbo Store è un catalogo installabile di applicazioni FOSS (Free and Open Source Software) per Android. Il client rende semplice cercare, installare e tenere traccia deglii aggiornamenti sul tuo dispositivo.</string>
+    <string name="app_details">Dettagli App</string>
+    <string name="app_icon">Icona App</string>
+    <string name="appcompatibility">Compatibilità applicazioni</string>
+    <string name="automatic_scan_wifi">Solo su wifi</string>
+    <string name="automatic_scan_wifi_on">Aggiorna automaticamente gli elenchi di applicazioni solo su wifi</string>
+    <string name="bluetooth_activity_not_found">Nessun metodo d\'invio via Bluetooth trovato, selezionane uno!</string>
+    <string name="cache_downloaded">Cache applicazioni</string>
+    <string name="cache_downloaded_on">Conserva i file apk scaricati sulla scheda SD</string>
+    <string name="cancel">Annulla</string>
+    <string name="category_all">Tutte</string>
+    <string name="category_recentlyupdated">Aggiornate di Recente</string>
+    <string name="category_whatsnew">Novità</string>
+    <string name="choose_bt_send">Scegli il metodo di invio Bluetooth</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> richiede uno o più servizi di Google Play che non sono attualmente disponibili. Contatta lo sviluppatore per ricevere assistenza."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Attiva Google Play Services"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Attiva Google Play Services"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Installa Google Play Services"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo telefono."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, non presente sul tuo tablet."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installa Google Play Services"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"L\'account specificato non esiste su questo dispositivo. Scegli un altro account."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Account non valido"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"È necessaria una connessione dati per connettersi a Google Play Services."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Errore di rete"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Errore Google Play Services"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Completa l\'azione richiesta da <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Operazione richiesta da Google Play Services"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"L\'accesso agli account da un profilo con limitazioni non è supportato."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Profilo con limitazioni"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Errore durante l\'accesso all\'account specificato. Scegli un altro account."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Accesso non riuscito"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Se il problema persiste, contatta lo sviluppatore per ricevere assistenza."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> si basa su Google Play Services, che non è supportato sul tuo dispositivo. Contatta il produttore per ricevere assistenza."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play Services"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aggiorna"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non aggiorni Google Play Services."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aggiorna Google Play Services"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà senza Google Play Services, attualmente in fase di aggiornamento."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Aggiornamento di Google Play Services"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"È richiesta una nuova versione di Google Play Services. L\'aggiornamento automatico verrà eseguito a breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Apri sul telefono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Accedi"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <string name="compactlayout">Layout Compatto</string>
+    <string name="compactlayout_on">Mostra le icone a dimensione ridotta</string>
+    <string name="copying_icons">Copio le icone delle app nella repo…</string>
+    <string name="corrupt_download">Il file scaricato è corrotto</string>
+    <string name="delete">Elimina</string>
+    <string name="deleting_repo">Cancello la repo corrente…</string>
+    <string name="details_installed">Versione %s installata</string>
+    <string name="details_notinstalled">Non installato</string>
+    <string name="display">Mostra</string>
+    <string name="download_cancelled">Download annullato</string>
+    <string name="download_server">Scaricamento applicazione da</string>
+    <string name="edit">Modifica</string>
+    <string name="enable">Abilita</string>
+    <string name="enable_nfc_send">Attiva Invio NFC…</string>
+    <string name="enable_proxy_summary">Configura il proxy HTTP per tutte le richieste di rete</string>
+    <string name="enable_proxy_title">Abilita Proxy HTTP</string>
+    <string name="enable_wifi">Abilita WiFi</string>
+    <string name="enabling_wifi">Abilito il WiFi…</string>
+    <string name="expert">Esperto</string>
+    <string name="expert_on">Mostra le informazioni ulteriori e abilita le impostazioni avanzate</string>
+    <string name="failed_to_create_index">Creazione dell\'indice della repo fallita!</string>
+    <string name="fdroid_updates_available">Aggiornamenti per Turbo Store Disponibili</string>
+    <string name="fingerprint">Impronta:</string>
+    <string name="global_error_updating_repos">Errore nell\'aggiornamento:</string>
+    <string name="go_to_nfc_settings">Vai alle Impostazioni NFC…</string>
+    <string name="icon">icona</string>
+    <string name="ignoreTouch">Ignora il Touchscreen</string>
+    <string name="ignoreTouch_on">Includi sempre le applicazioni con touchscreen obbligatorio</string>
+    <string name="inst">Installato</string>
+    <string name="installDowngrade">Stai provando a passare ad una versione precedente di questa applicazione. Potresti avere malfunzionamenti e perdita di dati. Vuoi installarla comunque?</string>
+    <string name="installIncompatible">Sembra che questo pacchetto non sia compatibile con il tuo dispositivo. Vuoi provare comunque ad installarlo?</string>
+    <string name="last_update_check">Ultima scansione repository: %s</string>
+    <string name="linking_apks">Aggiungo gli APK nella repo…</string>
+    <string name="local_repo">Repo Locale</string>
+    <string name="local_repo_bonjour">Condividi la Repo locale</string>
+    <string name="local_repo_bonjour_on">Lancia la tua repo usando Bonjour (mDNS)</string>
+    <string name="local_repo_https">Usa una Connessione Privata</string>
+    <string name="local_repo_https_on">Usa la connessione HTTPS:// criptata per le repo locali</string>
+    <string name="local_repo_name">Nome della tua Repo Locale</string>
+    <string name="local_repo_name_summary">Il titolo visualizzato della tua repo: %s</string>
+    <string name="local_repo_running">Turbo Store è pronto per inviare con swap</string>
+    <string name="local_repos_scanning">Rilevazione repo Turbo Store locali…</string>
+    <string name="local_repos_title">Repo Turbo Store Locali</string>
+    <string name="malformed_repo_uri">Ignoro URI repo malformati: %s</string>
+    <string name="many_updates_available">%d aggiornamenti disponibili.</string>
+    <string name="menu_about">Informazioni</string>
+    <string name="menu_add_repo">Nuovo Repository</string>
+    <string name="menu_donate">Dona</string>
+    <string name="menu_ignore_all">Ignora Tutti gli Aggiornamenti</string>
+    <string name="menu_ignore_this">Ignora Questo Aggiornamento</string>
+    <string name="menu_install">Installa</string>
+    <string name="menu_issues">Problemi</string>
+    <string name="menu_launch">Avvia</string>
+    <string name="menu_manage">Gestione dei repository</string>
+    <string name="menu_preferences">Preferenze</string>
+    <string name="menu_rem_repo">Rimuovi Repository</string>
+    <string name="menu_scan_repo">Trova dei Repository locali</string>
+    <string name="menu_search">Cerca</string>
+    <string name="menu_send_apk_bt">Bluetooth TurboStore.apk…</string>
+    <string name="menu_share">Condividi</string>
+    <string name="menu_source">Codice sorgente</string>
+    <string name="menu_swap">Invia apps</string>
+    <string name="menu_uninstall">Disinstalla</string>
+    <string name="menu_update_repo">Aggiorna i Repository</string>
+    <string name="menu_upgrade">Aggiorna</string>
+    <string name="menu_website">Sito Web</string>
+    <string name="minsdk_or_later">%s o successivi</string>
+    <string name="minsdk_up_to_maxsdk">da %1$s fino a %2$s</string>
+    <string name="never">mai</string>
+    <string name="next">Prossimo</string>
+    <string name="nfc_is_not_enabled">NFC non attivato!</string>
+    <string name="no">No</string>
+    <string name="no_applications_found">Nessuna applicazione trovata</string>
+    <string name="no_handler_app">Non hai alcuna app disponibile che può gestire %s</string>
+    <string name="no_permissions">Non viene usata alcuna autorizzazione.</string>
+    <string name="no_repo">Non hai configurato nessun repository!
+
+Un repository è una fonte di applicazioni. Per aggiungerne uno, premi MENU e inserisci un indirizzo URL.
+
+Un indirizzo URL di esempio è: https://f-droid.org/repo</string>
+    <string name="no_such_app">Nessuna app corrispondente trovata</string>
+    <string name="not_inst">Non installato</string>
+    <string name="not_on_same_wifi">Il tuo dispositivo non è nella stessa rete WiFi del Repository locale che hai aggiunto!
+Prova a collegarti a questa rete: %s</string>
+    <string name="notify">Avviso</string>
+    <string name="notify_on">Notifica gli aggiornamenti disponibili</string>
+    <string name="ok">OK</string>
+    <string name="one_update_available">1 aggiornamento disponibile.</string>
+    <string name="open_qr_code_scanner">Apri lo scanner per codici QR</string>
+    <string name="other">Altro</string>
+    <string name="overwrite">Sovrascrivi</string>
+    <string name="permissions_for_long">Autorizzazioni per la versione %s</string>
+    <string name="process_update_msg">Aggiornamento elenco applicazioni…</string>
+    <string name="process_wait_title">Attendere prego</string>
+    <string name="proxy">Proxy</string>
+    <string name="proxy_host">Host Proxy</string>
+    <string name="proxy_host_summary">Configura l\'hostname del tuo proxy (es. 127.0.0.1)</string>
+    <string name="proxy_port">Porta Proxy</string>
+    <string name="proxy_port_summary">Configura la porta del tuo proxy (es. 8118)</string>
+    <string name="qr_code">Codice QR</string>
+    <string name="qr_content_description">Codice QR dell\' URL della repo</string>
+    <string name="qr_wizard_download_instructions">Scansiona questo codice QR per connetterti al sito web dove cominciare.</string>
+    <string name="qr_wizard_wifi_network_instructions">Scannerizza questo codice QR per connetterti alla stessa wifi di questo dispositivo.</string>
+    <string name="repo_add_add">Aggiungi</string>
+    <string name="repo_add_fingerprint">Impronta digitale (opzionale)</string>
+    <string name="repo_add_title">Aggiungi nuovo repository</string>
+    <string name="repo_add_url">Indirizzo repository</string>
+    <string name="repo_alrt">L\'elenco dei repository in uso è cambiato.
+Vuoi aggiornarlo?</string>
+    <string name="repo_confirm_delete_body">Eliminare un repository implica che le applicazioni contenute non saranno più disponibili attraverso Turbo Store.
+Nota: Tutte le applicazioni installate precedentemente rimarranno sul dispositivo.</string>
+    <string name="repo_confirm_delete_title">Eliminare il repository?</string>
+    <string name="repo_delete_details">Si desidera eliminare il \"{0}\" repository, che contiene {1} applicazioni? Le applicazioni installate NON saranno rimosse, ma non sarà più possibile aggiornarle attraverso Turbo Store.</string>
+    <string name="repo_delete_to_overwrite">È necessario eliminare questo repository prima di poter aggiungerne uno con una chiave differente!</string>
+    <string name="repo_description">Descrizione</string>
+    <string name="repo_disabled_notification">\"%1$s\" è disabilitato.
+È necessario abilitare nuovamente questo repository per installare le applicazioni contenute.</string>
+    <string name="repo_exists">Questo repository esiste già!</string>
+    <string name="repo_exists_add_fingerprint">Questo repository è già configurato, una nuova informazione chiave verrà aggiunta.</string>
+    <string name="repo_exists_and_enabled">Il nuovo repository è già configurato e abilitato!</string>
+    <string name="repo_exists_enable">Questo repository è già configurato, conferma di volerlo abilitare nuovamente.</string>
+    <string name="repo_fingerprint">Impronta digitale della Chiave del Repo (SHA-256)</string>
+    <string name="repo_icon">Icona della Repo</string>
+    <string name="repo_last_update">Ultimo aggiornamento</string>
+    <string name="repo_name">Nome</string>
+    <string name="repo_not_yet_updated">Questo repository non è ancora stato utilizzato.
+Per poter vedere le applicazioni contenute, è     necessario aggiornarlo.
+Una volta aggiornato, la descrizione e le altre informazioni saranno disponibili qui.</string>
+    <string name="repo_num_apps">Numero di applicazioni</string>
+    <string name="repo_update">Aggiorna</string>
+    <string name="repo_update_title">Aggiorna i repository</string>
+    <string name="repo_url">URL</string>
+    <string name="repos_unchanged">Repository aggiornate</string>
+    <string name="requesting_root_access_body">Richiedo i permessi root…</string>
+    <string name="requires_features">Richiede: %1$s</string>
+    <string name="root_access_denied_body">Il tuo telefono non ha i permessi di root oppure li hai negati ad Turbo Store.</string>
+    <string name="root_access_denied_title">Accesso Root negato</string>
+    <string name="rooted">Amministratore</string>
+    <string name="rooted_on">Non disabilitare le applicazioni che richiedono privilegi di root</string>
+    <string name="same_wifi_instructions">Per connetterti a dispositivi di altre persone, assicurati che entrambi i dispositivi siano sulla stessa rete WiFi. Allora o digita l\'URL sopra in Turbo Store, o scansiona il codice QR:</string>
+    <string name="search_hint">Ricerca applicazioni</string>
+    <string name="search_results">Risultati Ricerca</string>
+    <string name="searchres_napps">Trovate %1$d applicazioni corrispondenti a \'%2$s\':</string>
+    <string name="searchres_noapps">Non è stata trovata nessuna applicazione corrispondente a \'%s\'</string>
+    <string name="searchres_oneapp">Trovata un\'applicazione corrispondente a \'%s\':</string>
+    <string name="send_fdroid_via_wifi">Invio Turbo Store via WiFi…</string>
+    <string name="send_via_bluetooth">Invia via Bluetooth</string>
+    <string name="setup_repo">Prepara una Repo locale</string>
+    <string name="sharing_uri">URL di condivisione:</string>
+    <string name="show_incompat_versions">Versioni incompatibili</string>
+    <string name="show_incompat_versions_on">Mostra le versioni incompatibili con il dispositivo</string>
+    <string name="skip">Salta</string>
+    <string name="status_checking_compatibility">Controllo compatibilità applicazioni con il tuo dispositivo…</string>
+    <string name="status_connecting_to_repo">Connessione a
+%1$s</string>
+    <string name="status_download">Scaricamento
+%2$s / %3$s (%4$d%%) da
+%1$s</string>
+    <string name="status_inserting">Salvataggio dettagli applicazioni (%1$d%%)</string>
+    <string name="swap">Invia apps</string>
+    <string name="swap_confirm_connect">Vuoi ricevere le app da %1$s?</string>
+    <string name="swap_join_same_wifi">Collegati alla stessa WiFi del tuo amico</string>
+    <string name="swap_no_wifi_network">Nessuna rete disponibile</string>
+    <string name="swap_use_bluetooth">Usa il Bluetooth invece</string>
+    <string name="swap_view_available_networks">(Tocca per mostrare le reti disponibili)</string>
+    <string name="swap_welcome">Benvenuto in Turbo Store!</string>
+    <string name="swap_wifi_help">Maggiori informazioni sulla WiFi</string>
+    <string name="swap_wifi_qr_not_working">Non funziona</string>
+    <string name="system_installer">Installa usando i permessi di sistema</string>
+    <string name="system_installer_on">Usa i permessi di sistema per installare,aggiornare e rimuovere i pacchetti</string>
+    <string name="system_permission_denied_body">Questa opzione è disponibile solo quando Turbo Store è installato come app di sistema.</string>
+    <string name="system_permission_denied_title">Permessi di sistema negati</string>
+    <string name="tab_noninstalled">Disponibile</string>
+    <string name="tab_updates">Aggiornamenti</string>
+    <string name="theme">Tema</string>
+    <string name="touch_to_configure_local_repo">Tocca per vedere i dettagli e permettere agli altri di ricevere le tue app.</string>
+    <string name="touch_to_turn_off_local_repo">Tocca per chiudere la tua repo locale.</string>
+    <string name="touch_to_turn_on_local_repo">Tocca per abilitare la tua repo locale.</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="unsigned">Non firmato</string>
+    <string name="unsigned_description">Ciò significa che l\'elenco di applicazioni non potrà essere verificato. È consigliabile prestare attenzione alle applicazioni scaricate da indici non firmati.</string>
+    <string name="unverified">Non verificato</string>
+    <string name="up_to_maxsdk">fino a %s</string>
+    <string name="update_all">Aggiorna tutto</string>
+    <string name="update_history">Aggiorna i repository</string>
+    <string name="update_history_summ">Numero di giorni per considerare le applicazioni nuove o recenti: %s</string>
+    <string name="update_interval">Intervallo degli aggiornamenti automatici</string>
+    <string name="update_interval_zero">Non aggiornare automaticamente l\'elenco delle applicazioni</string>
+    <string name="update_repo">Aggiorna Repo</string>
+    <string name="updated_local_repo">Aggiornamento della repo locale completato</string>
+    <string name="updates">Aggiornamenti</string>
+    <string name="updating">Aggiorno…</string>
+    <string name="version">Versione</string>
+    <string name="waiting_for_ipaddress">attendo un indirizzo IP…</string>
+    <string name="wifi_network">Rete WiFi:</string>
+    <string name="writing_index_jar">Scrivo il file di indice fimrato (index.jar)…</string>
+    <string name="yes">Sì</string>
+</resources>

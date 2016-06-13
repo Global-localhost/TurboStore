@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_bd98b390691b3550fc31019fc3b526933d695540.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c34142b1beabb8c9215e03b0b0164275fd9f434">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\instant-run_a92dd1e099e0327988c849fa6e2afb45a44efb5a.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\libs\binaryDeps\nanohttpd-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="177f638aedead79ee5b183c14da9fd287fbf2fbd">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\nanohttpd-2.1.0_97d20b6e2cd1c06c30b7f65611048c0aefc55d9c.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_be67e335345f7807208580fcc10913b061436989.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\org.thoughtcrime.ssl.pinning\AndroidPinning\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5622527508e8ff6dd295d7cbacde63850ec3548d">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\org.thoughtcrime.ssl.pinning-AndroidPinning-1.0.0_f090c60bbd906dbc83d3e7af3bb36fa3dd189b8e.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_6dee0d7743cb51aabadfc315c72e7ab5efddc130.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roberto\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\prov\1.53.0.0\72c4892e05c7563fbab0c4ada0187cd879113389\prov-1.53.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72c4892e05c7563fbab0c4ada0187cd879113389">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\prov-1.53.0.0_b8977689989db51b7ae71226823a669fc515094f.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.2_e85c6da6dfe0e85e133648e9433e52fd05ad43f2.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.2_0c6659f0196fd0cd96d9c1e31d53c36a796fd930.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roberto\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\core-3.2.0_27d35fa6c04d7569882f4a4865fa629d54c1be68.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\libs\binaryDeps\com-lqtyukk-gcdqlok220440.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d2ac3a3fb5d15e96d0127dfac464a115ec91de25">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com-lqtyukk-gcdqlok220440_1de245d8e1dea32171109df04ff51e57468f3c25.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roberto\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\pkix\1.53.0.0\340c75534d964f468d82ed42006a7255362046c7\pkix-1.53.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="340c75534d964f468d82ed42006a7255362046c7">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\pkix-1.53.0.0_c7cac9059ea7fb9a2bce29dc36dd74b3228422c7.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\libs\binaryDeps\zipsigner.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d019bf2a713bcc9fd4d09a854dd9992456090f6d">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\zipsigner_30fd87fadb5be3e5194e1104c5fbf82492e47677.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_71ee2d3ff6581646a60c4e0045c1bf5a647de27a.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.2_69f12176afcda79d90051c64119878aef6f64d73.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\libs\binaryDeps\jmdns.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9312a40443719a14f12e6250a39683e3bb3ebe76">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\jmdns_1dc9024b64244a1deeeaf37eba633ab209531c4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roberto\.gradle\caches\modules-2\files-2.1\com.madgag.spongycastle\core\1.53.0.0\619f704791db186304325bd129b2e7ec34f77438\core-1.53.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="619f704791db186304325bd129b2e7ec34f77438">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\core-1.53.0.0_daf90f5eb2453dbea4b39aba9f0a1e0ee90ad13c.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_c8ef79695679bfcf165d406100159411e8178486.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\support-v4-preferencefragment-release\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18a72908027e356da0dbeb592c97707ccbc1560b">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-support-v4-preferencefragment-release_d3c70619aa2e04c43401266188bc216688ce98db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Roberto\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4_105171824a2891276bb1ededc748dab6ffde9217.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.2_ca4bd1cec90dce970a8f3186aa8846b688a3829a.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="57f47cbc1062562c81350502efdf7569b27fc17d">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_fc49991891b53dfbafacdc3562ec10b74f5b9e1d.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_87c91a437d59698ed61671dc4ca3041390a21c3c.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_eab2dd76af5737714d444904e115931b97a20711.jar" />
+    </item>
+    <item
+        jar="C:\Phonemetra\TurboStore\app\build\intermediates\exploded-aar\eu.chainfire\libsuperuser\1.0.0.201602271131\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea2be1a30cbb533e9b86377d8345b2952ad9956e">
+        <dex dex="C:\Phonemetra\TurboStore\app\build\intermediates\pre-dexed\debug\eu.chainfire-libsuperuser-1.0.0.201602271131_b6b10e6c89a8dc926a9053d21244509c873dd91a.jar" />
+    </item>
+
+</items>

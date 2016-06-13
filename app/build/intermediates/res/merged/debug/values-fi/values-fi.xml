@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Children">Lapset</string>
+    <string name="Development">Kehitys</string>
+    <string name="Games">Pelit</string>
+    <string name="Internet">Internet</string>
+    <string name="Mathematics">Matematiikka</string>
+    <string name="Multimedia">Multimedia</string>
+    <string name="Navigation">Navigointi</string>
+    <string name="News">Uutiset</string>
+    <string name="Office">Toimisto</string>
+    <string name="Phone_SMS">Puhelin &amp; SMS</string>
+    <string name="Reading">Luetaan</string>
+    <string name="Science_Education">Tiede &amp; koulutus</string>
+    <string name="Security">Tietoturva</string>
+    <string name="SignatureMismatch">Uusi versio on allekirjoitettu eri avaimella kuin vanha. Asentaaksesi uuden version, vanha täytyy poistaa ensin. Tee tämä ja yritä uudelleen. (Huomaa, että poistaminen poistaa kaiken sovelluksen sisäisen datan)</string>
+    <string name="System">Järjestelmä</string>
+    <string name="Wallpaper">Taustakuva</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <string name="about_desc">Julkaistu GNU GPLv3 -lisenssinkäyttöehtojen mukaisesti.</string>
+    <string name="about_mail">Sähköposti:</string>
+    <string name="about_site">Verkkosivu:</string>
+    <string name="about_title">Tietoa Turbo Storeista</string>
+    <string name="about_version">Versio:</string>
+    <string name="about_website">Verkkosivu</string>
+    <string name="add_key">Lisää avain</string>
+    <string name="added_on">Lisätty %s</string>
+    <string name="adding_apks_format">Lisätään kohdetta %s säilöön…</string>
+    <string name="all_other_repos_fine">Muut säilöt eivät luoneet virheitä.</string>
+    <string name="antiadslist">Tämä sovellus sisältää mainoksia</string>
+    <string name="antinonfreeadlist">Tämä sovellus suosittelee ei-avoimia lisäosia</string>
+    <string name="antinonfreedeplist">Tämä sovellus vaatii toimiakseen jonkin muun, ei-avoimen sovelluksen</string>
+    <string name="antinonfreenetlist">Tämä sovellus mainostaa epävapaita verkkopalveluja</string>
+    <string name="antitracklist">Tämä sovellus tarkkailee ja raportoi toimintaasi</string>
+    <string name="app_description">Turbo Store on asennettava FOSS-sovellusten hakemisto (Free and Open Source Software) Androidille. Asiakasohjelma helpottaa selailemista, asentamista ja laitteesi pitämistä päivitettynä.</string>
+    <string name="app_details">Sovelluksen tiedot</string>
+    <string name="app_icon">Sovelluskuvake</string>
+    <string name="appcompatibility">Sovellusten yhteensopivuus</string>
+    <string name="automatic_scan_wifi">Vain wifi-yhteydellä</string>
+    <string name="automatic_scan_wifi_on">Päivitä sovelluslistat automaattisesti vain WiFi-yhteydellä</string>
+    <string name="bluetooth_activity_not_found">Bluetooth-läheystapaa ei löytynyt, valitse yksi!</string>
+    <string name="cache_downloaded">Säilytä ladatut sovellukset välimuistissa</string>
+    <string name="cache_downloaded_on">Säilytä ladatud aptk-tiedostot SD-kortilla</string>
+    <string name="cancel">Peruuta</string>
+    <string name="category_all">Kaikki</string>
+    <string name="category_recentlyupdated">Viimeaikoina päivitetty</string>
+    <string name="category_whatsnew">Uutta</string>
+    <string name="choose_bt_send">Valitse Bluetooth-lähetystapa</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tarvitsee yhtä tai useampaa Google Play Palvelua, jotka eivät ole tällä hetkellä käytettävissä. Ota yhteyttä kehittäjään."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Ota Google Play -palv. käyttöön"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet ota Google Play Palveluita käyttöön."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ota Google Play Palvelut käyttöön"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Asenna Google Play Palvelut"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat puhelimestasi."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat tabletistasi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Asenna Google Play Palvelut"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Tili ei kelpaa"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Google Play Palveluiden käyttöön tarvitaan verkkoyhteys."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Verkkovirhe"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Virhe Google Play -palveluissa"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Suorita sovelluksen <ns1:g id="APP_NAME">%1$s</ns1:g> edellyttämä toiminto."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Google Play Palvelut edellyttävät toimia"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Tilien käyttöä rajoitetulla profiililla ei tueta."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Rajoitettu profiili"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Määritettyyn tiliin kirjauduttaessa tapahtui virhe. Valitse toinen tili."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Kirjautuminen epäonnistui."</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Sovelluksella <ns1:g id="APP_NAME">%1$s</ns1:g> on ongelmia Google Play Palveluiden kanssa. Jos ongelma ei poistu, ota yhteyttä sovelluksen kehittäjään."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> käyttää Google Play Palveluita, joita laitteesi ei tue. Ota yhteyttä laitteen valmistajaan."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play Palvelut"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Päivitä"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet päivitä Google Play Palveluita."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Päivitä Google Play Palvelut"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play Palveluita päivitetään"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Avaa puhelimessa"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Kirjaudu sisään"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Kirjaudu Google-tilille"</string>
+    <string name="copying_icons">Kopioidaan sovelluskuvakkeita säilöön…</string>
+    <string name="corrupt_download">Ladattu tiedosto on viallinen</string>
+    <string name="delete">Poista</string>
+    <string name="deleting_repo">Poistetaan nykyistä säilöä…</string>
+    <string name="details_installed">Versio %s asennettu</string>
+    <string name="details_notinstalled">Ei asennettu</string>
+    <string name="display">Näyttö</string>
+    <string name="download_cancelled">Lataus peruutettu</string>
+    <string name="download_server">Haetaan sovellusta lähteestä</string>
+    <string name="edit">Muokkaa</string>
+    <string name="enable">Ota käyttöön</string>
+    <string name="enable_nfc_send">Ota NFC-lähetys käyttöön…</string>
+    <string name="enable_proxy_summary">Määritä HTTP-välityspalvelin kaikille verkkopyynnöille</string>
+    <string name="enable_proxy_title">Ota käyttöön HTTP-välityspalvelin</string>
+    <string name="enable_wifi">Ota WiFi käyttöön</string>
+    <string name="enabling_wifi">Otetaan WiFiä käyttöön…</string>
+    <string name="expert">Asiantuntija</string>
+    <string name="failed_to_create_index">Säilöhakemiston luonti epäonnistui!</string>
+    <string name="fdroid_updates_available">Turbo Store: Päivityksiä saatavilla</string>
+    <string name="fingerprint">Sormenjälki:</string>
+    <string name="global_error_updating_repos">Päivityksenaikainen virhe:</string>
+    <string name="go_to_nfc_settings">NFC-asetukset…</string>
+    <string name="icon">kuvake</string>
+    <string name="ignoreTouch">Älä välitä kosketusnäytöstä</string>
+    <string name="inst">Asennettu</string>
+    <string name="inst_unknown_source">Asennettu (tuntemattomasta lähteestä)</string>
+    <string name="installDowngrade">Sovellusta päivitetään vanhempaan versioon. Sovellus voi toimia väärin tai kadottaa tietojasi. Haluatko päivittää vanhempaan versioon?</string>
+    <string name="installIncompatible">Tämä paketti ei näytä olevan yhteensopiva laitteesi kanssa. Haluatko silti asentaa sen?</string>
+    <string name="last_update_check">Viimeisin sovelluslähteiden skannaus: %s</string>
+    <string name="linking_apks">Linkitetään AKP-tiedostoja säilöön…</string>
+    <string name="local_repo">Paikallinen säilö</string>
+    <string name="local_repo_bonjour">Kuuluta paikallista säilöä</string>
+    <string name="local_repo_bonjour_on">Mainosta paikallista säilöäsi Bonjour-palvelua käyttäen (mDNS)</string>
+    <string name="local_repo_https">Käytä yksityistä yhteyttä</string>
+    <string name="local_repo_https_on">Käytä salattua HTTPS:// -yhteyttä paikalliselle säilölle</string>
+    <string name="local_repo_name">Paikallisen säilösi nimi</string>
+    <string name="local_repo_name_summary">Paikallisen säilösi mainostettava otsikko: %s</string>
+    <string name="local_repo_running">Turbo Store on valmis vaihtamaan</string>
+    <string name="many_updates_available">%d päivitystä saatavilla.</string>
+    <string name="menu_about">Tietoja</string>
+    <string name="menu_add_repo">Uusi sovelluslähde</string>
+    <string name="menu_donate">Lahjoita</string>
+    <string name="menu_ignore_all">Ohita kaikki päivitykset</string>
+    <string name="menu_ignore_this">Ohita tämä päivitys</string>
+    <string name="menu_install">Asenna</string>
+    <string name="menu_issues">Ongelmat</string>
+    <string name="menu_launch">Suorita</string>
+    <string name="menu_manage">Hallitse sovelluslähteitä</string>
+    <string name="menu_preferences">Asetukset</string>
+    <string name="menu_rem_repo">Poista sovelluslähde</string>
+    <string name="menu_search">Etsi</string>
+    <string name="menu_share">Jaa</string>
+    <string name="menu_source">Lähdekoodi</string>
+    <string name="menu_swap">Vaihda sovelluksia</string>
+    <string name="menu_uninstall">Poista</string>
+    <string name="menu_update_repo">Päivitä sovelluslähteet</string>
+    <string name="menu_upgrade">Päivitä</string>
+    <string name="menu_website">Verkkosivu</string>
+    <string name="never">ei koskaan</string>
+    <string name="next">Seuraava</string>
+    <string name="nfc_is_not_enabled">NFC ei ole käytössä.</string>
+    <string name="no">Ei</string>
+    <string name="no_applications_found">Sovelluksia ei löytynyt</string>
+    <string name="no_such_app">Sovellusta ei löytynyt</string>
+    <string name="not_inst">Ei asennettu</string>
+    <string name="notify">Huomauta</string>
+    <string name="notify_on">Ilmoita, kun päivityksiä on saatavissa</string>
+    <string name="ok">OK</string>
+    <string name="one_update_available">1 päivitys saatavilla.</string>
+    <string name="open_qr_code_scanner">Avaa QR-koodiskanneri</string>
+    <string name="other">Muu</string>
+    <string name="overwrite">Korvaa</string>
+    <string name="process_update_msg">Päivitetään sovelluslistaa…</string>
+    <string name="process_wait_title">Odota hetki</string>
+    <string name="proxy">Välityspalvelin</string>
+    <string name="proxy_host">Välityspalvelimen isäntä</string>
+    <string name="proxy_host_summary">Määritä välityspalvelimesi isäntänimi (esimm. 127.0.0.1)</string>
+    <string name="proxy_port">Välityspalvelimen portti</string>
+    <string name="proxy_port_summary">Määritä välityspalvelimesi porttinumero (esim. 8118)</string>
+    <string name="qr_code">QR-koodi</string>
+    <string name="qr_content_description">Säilön URL:n QR-koodi</string>
+    <string name="qr_wizard_download_instructions">Skannaa tämä QR-koodi yhdistääksesi verkkosivuun ja päästäksesi alkuun.</string>
+    <string name="qr_wizard_wifi_network_instructions">Skannaa tämä QR-koodi yhdistääksesi samaan WiFi-verkkoon tämän laitteen kanssa.</string>
+    <string name="repo_add_add">Lisää</string>
+    <string name="repo_add_fingerprint">Sormenjälki (valinnainen)</string>
+    <string name="repo_add_title">Lisää uusi sovelluslähde</string>
+    <string name="repo_add_url">Sovelluslähteen osoite</string>
+    <string name="repo_alrt">Lista käytetyistä sovelluslähteistä on muuttumut.
+Tahdotko päivittää ne?</string>
+    <string name="repo_confirm_delete_body">Säilön poistaminen tarkoittaa,
+        että sieltä olevat sovellukset eivät ole enää saatavissa Turbo Storein kautta.
+
+Huomio: Kaikki
+        aikaisemmin asentamasi sovellukset säilyvät laitteellasi.</string>
+    <string name="repo_delete_details">Haluatko poistaa säilön \"{0}\",
+        jossa on {1} sovellusta? Kaikki asennetut sovellukset säilyvät
+        laitteellasi, mutta et voi enää päivittää niitä Turbo Storein kautta.</string>
+    <string name="repo_disabled_notification">\"%1$s\" pois käytöstä.
+
+Sinun pitää
+        ottaa tämä säilö uudelleen käyttöön asentaaksesi sieltä sovelluksia.</string>
+    <string name="repo_exists">Tämä sovelluslähde on jo olemassa.</string>
+    <string name="repo_icon">Säilön kuvake</string>
+    <string name="repo_not_yet_updated">Tätä säilöä ei ole vielä käytetty.
+        Jotta näkisit sen sisältämät sovellukset, sinun pitää päivittää se.
+
+Kun päivitys on tehty, kuvaus ja muut tiedot
+        tulevat saatavillesi.</string>
+    <string name="repo_update_title">Päivitä sovelluslähteet</string>
+    <string name="repos_unchanged">Yhdessäkään säilössä ei ole pakettipäivityksiä</string>
+    <string name="requesting_root_access_body">Pyydetään root-oikeuksia…</string>
+    <string name="requires_features">Vaatii: %1$s</string>
+    <string name="root_access_denied_body">Joko Android-laitettasi ei ole rootattu tai olet kieltänyt Turbo Storein root-oikeuksiin pääsyn.</string>
+    <string name="root_access_denied_title">Root-oikeudet kielletty</string>
+    <string name="rooted">Root</string>
+    <string name="same_wifi_instructions">Yhdistääksesi toisien ihmisten laitteisiin, varmista, että molemmat laitteet ovat samassa WiFi-verkossa. Tämän jälkeen joko kirjoita yllä oleva URL Turbo Storeiin tai skannaa tämä QR-koodi.</string>
+    <string name="search_hint">Etsi sovelluksia</string>
+    <string name="search_results">Hakutulokset</string>
+    <string name="searchres_napps">Löydettiin %1$d sovellusta, jotka täsmäävät \'%2$s\':</string>
+    <string name="searchres_noapps">Sovelluksia, jotka täsmäävät \'%s\' ei löytynyt</string>
+    <string name="searchres_oneapp">Löydettiin yksi sovellus, joka täsmää \'%s\':</string>
+    <string name="send_fdroid_via_wifi">Lähetä Turbo Store WiFin kautta…</string>
+    <string name="send_via_bluetooth">Lähetä bluetoothilla</string>
+    <string name="setup_repo">Aseta paikallinen säilö</string>
+    <string name="sharing_uri">Jako-URL:</string>
+    <string name="show_incompat_versions">Yhteensopimattomat versiot</string>
+    <string name="skip">Ohita</string>
+    <string name="status_checking_compatibility">Tarkistetaan ohjelman yhteensopivuutta laitteesi kanssa…</string>
+    <string name="swap">Vaihda sovelluksia</string>
+    <string name="swap_confirm_connect">Haluatko saada sovellukset kohteesta %1$s nyt?</string>
+    <string name="swap_join_same_wifi">Liity ystäväsi kanssa samaan WiFi-verkkoon</string>
+    <string name="swap_nfc_description">Jos ystävälläsi on  koskekaa puhelimianne yhtäaikaa.</string>
+    <string name="swap_no_wifi_network">Ei vielä verkkoa</string>
+    <string name="swap_use_bluetooth">Käytä sen sijaan bluetoothia</string>
+    <string name="swap_view_available_networks">(Napauta avataksesi saatavissa olevat verkot)</string>
+    <string name="swap_welcome">Tervetuloa Turbo Storeiin!</string>
+    <string name="swap_wifi_help">Lisää tietoa WiFistä</string>
+    <string name="swap_wifi_qr_not_working">Se ei toimi</string>
+    <string name="system_installer">Asenna käytäen järjestelmän oikeuksia</string>
+    <string name="system_installer_on">Käytä järjestelmän oikeuksia asennuksiin, päivityksiin ja pakettien poistoihin.</string>
+    <string name="system_permission_denied_body">Tämä asetus on käytössä vain silloin, kun Turbo Store on asennettu järjestelmäsovellukseksi.</string>
+    <string name="system_permission_denied_title">Järjestelmäasetukset kielletty</string>
+    <string name="tab_noninstalled">Saatavilla</string>
+    <string name="tab_updates">Päivityksiä</string>
+    <string name="theme">Teema</string>
+    <string name="touch_to_configure_local_repo">Kosketa nähdäksesi tiedot ja salliaksesi toisten vaihtaa sovelluksiasi.</string>
+    <string name="touch_to_turn_off_local_repo">Kosketa sammuttaaksesi paikallisen säilösi.</string>
+    <string name="touch_to_turn_on_local_repo">Kosketa käynnistääksesi paikallisen säilösi.</string>
+    <string name="unverified">Vahvistamaton</string>
+    <string name="update_all">Päivitä kaikki</string>
+    <string name="update_history">Päivityshistoria</string>
+    <string name="update_history_summ">Päivien määrä, jolloin sovellus näytetään uutena: %s</string>
+    <string name="update_interval">Automaattisen päivityksen tiheys</string>
+    <string name="update_interval_zero">Ei automaattisia sovellusluetteloiden päivityksiä</string>
+    <string name="update_repo">Päivitä säilö</string>
+    <string name="updated_local_repo">Paikallisen säilön päivitys valmis</string>
+    <string name="updates">Päivitykset</string>
+    <string name="updating">Päivitetään…</string>
+    <string name="version">Versio</string>
+    <string name="waiting_for_ipaddress">odotetaan IP-osoitetta…</string>
+    <string name="wifi_network">WiFi-verkko</string>
+    <string name="writing_index_jar">Kirjoitetan allekirjoitettua hakemistotiedostoa (index.jar)…</string>
+    <string name="yes">Kyllä</string>
+</resources>

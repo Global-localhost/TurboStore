@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"انجام شد"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی شفاهی"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
+    <string name="about_mail">رایانامه:</string>
+    <string name="about_title">دربارهٔ Turbo Store</string>
+    <string name="about_website">وب‌گاه</string>
+    <string name="add_key">فزودن کلید</string>
+    <string name="added_on">به %s افزوده شد</string>
+    <string name="antiadslist">این برنامه دارای تبلیغات است</string>
+    <string name="antinonfreeadlist">این برنامه افزونه‌های غیر آزاد را تبلیغ می‌کند</string>
+    <string name="antinonfreedeplist">این برنامه به سایر برنامه‌های غیر آزاد وابسته است</string>
+    <string name="antinonfreenetlist">این برنامه خدمات شبکه‌های غیر آزاد را تبلیغ می‌کند</string>
+    <string name="antitracklist">این برنامه فعالیت‌های شما را ردیابی و گزارش می‌کند</string>
+    <string name="antiupstreamnonfreelist">سرتاسر آزاد نبودن کد منبع بالادستی</string>
+    <string name="appcompatibility">هماهنگی برنامه</string>
+    <string name="automatic_scan_wifi">فقط هنگام اتصال وای‌فای</string>
+    <string name="automatic_scan_wifi_on">به‌روزرسانی فهرست برنامه‌ها خودکار فقط با وای‌فای</string>
+    <string name="bluetooth_activity_not_found">روش فرستادن دندان‌آبی پیدا نشد، یکی را برگزینید!</string>
+    <string name="cache_downloaded">میانگیری برنامه‌های دریافت‌شده</string>
+    <string name="cache_downloaded_on">نگه‌داشتن پرونده‌های ای‌پی‌کی بر روی کارت اس‌دی</string>
+    <string name="cancel">فسخ</string>
+    <string name="category_all">همه</string>
+    <string name="choose_bt_send">گزینش روش فرستادن دندان‌آبی</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> به یک یا چند سرویس Google Play نیاز دارد که درحال حاضر در دسترس نیستند. لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"‏فعال کردن خدمات Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏تا وقتی سرویس‌های Google Play را فعال نکنید، <ns1:g id="APP_NAME">%1$s</ns1:g> کار نمی‌کند."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏‫فعال کردن سرویس‌های Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"‏دریافت سرویس‌های Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> بدون سرویس‌های Google Play که در تلفن شما وجود ندارد، اجرا نمی‌شود."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> بدون سرویس‌های Google Play که در رایانه لوحی شما وجود ندارد، اجرا نمی‌شود."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏دریافت سرویس‌های Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"حسابی که تعیین کردید در این دستگاه وجود ندارد. لطفاً حساب دیگری را انتخاب کنید."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"حساب نامعتبر"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"‏برای اتصال به سرویس‌های Google Play اتصال داده‌ لازم است."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"خطای شبکه"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطا در خدمات Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"لطفاً اقدام مورد نیاز برای <ns1:g id="APP_NAME">%1$s</ns1:g> را انجام دهید."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"‏خدمات Google Play به اقدامی نیاز دارند"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"دسترسی به حساب‌ها از یک نمایه محدودشده پشتیبانی ‌نمی‌شود."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"نمایه محدودشده"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"هنگام وارد شدن به سیستم حساب مشخص شده خطایی روی داد. لطفاً یک حساب دیگر انتخاب کنید."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"وارد سیستم نشد"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> در ارتباط با سرویس‌های Google Play با مشکل روبروست. اگر مشکل ادامه داشت، لطفاً برای دریافت کمک با برنامه‌نویس تماس بگیرید."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> بر سرویس‌های Google Play متکی است که توسط دستگاهتان پشتیبانی نمی‌شود. برای دریافت کمک با سازنده تماس بگیرید."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"‏خدمات Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"به‌روزرسانی"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏تاز مانی که سرویس‌های Google Play را به‌روزرسانی نکنید، <ns1:g id="APP_NAME">%1$s</ns1:g> اجرا نمی‌شود."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏‫به‌روزرسانی سرویس‌های Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"‏سرویس‌‌های Google Play درحال به‌روزرسانی"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"باز کردن در تلفن"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ورود به سیستم"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏ورود به سیستم با Google‎"</string>
+    <string name="compactlayout">طرح‌بندی فشرده</string>
+    <string name="compactlayout_on">نمایش شکلک‌ها در اندازه کوچکتر</string>
+    <string name="corrupt_download">پروندهٔ دریافتی خراب است</string>
+    <string name="delete">حذف</string>
+    <string name="details_notinstalled">نصب‌نشده</string>
+    <string name="display">نمایش</string>
+    <string name="download_cancelled">دریافت فسخ شد</string>
+    <string name="download_server">گرفتن برنامه از</string>
+    <string name="edit">ویرایش</string>
+    <string name="enable">توانا ساختن</string>
+    <string name="expert_on">نمایش داده‌های بیشتر و فعال کردن تنظیمات بیشتر</string>
+    <string name="fdroid_updates_available">به‌روزرسانی‌های Turbo Store موجود هستند</string>
+    <string name="go_to_nfc_settings">برو به ساماندهی اِن‌اِف‌سی</string>
+    <string name="ignoreTouch">صفحهٔ نمایش لمسی را در نظر نگیر</string>
+    <string name="inst">نصب‌شده</string>
+    <string name="installDowngrade">شما در حال قدیمی‌کردن و کاهش درجهٔ این برنامه هستید. انجام چنین کاری ممکن منجر به خرابی یا از دست رفتن داده‌های شما شود. آیا می‌خواهید سعی کنید این برنامه را به هر قیمتی قدیمی کنید؟</string>
+    <string name="installIncompatible">به‌نظر می‌رسد این بسته با دستگاه شما هماهنگ نیست. آیا می‌خواهید آن را به هر قیمتی آزمایش و نصب کنید؟</string>
+    <string name="last_update_check">آخرین اسکن مخزن: %S</string>
+    <string name="menu_about">درباره</string>
+    <string name="menu_donate">کمک مالی</string>
+    <string name="menu_install">نصب</string>
+    <string name="menu_issues">اشکال‌ها</string>
+    <string name="menu_manage">مدیریت مخزن‌ها</string>
+    <string name="menu_rem_repo">حذف مخزن</string>
+    <string name="menu_search">جستجو</string>
+    <string name="menu_share">به اشتراک‌گذاری</string>
+    <string name="menu_source">کد مبدأ</string>
+    <string name="menu_uninstall">حذف نصب</string>
+    <string name="menu_update_repo">به‌روزرسانی مخزن‌ها</string>
+    <string name="minsdk_or_later">%s یا پس از این</string>
+    <string name="minsdk_up_to_maxsdk">%1$s تا %2$s</string>
+    <string name="never">هیچ‌گاه</string>
+    <string name="nfc_is_not_enabled">اِن‌اِف‌سی فعال نیست!</string>
+    <string name="no">خیر</string>
+    <string name="no_permissions">دسترسی‌ای استفاده نشده‌است.</string>
+    <string name="no_repo">شما هیچ مخزنی را تنظیم نکرده‌اید!
+
+یک مخزن منبعی از برنامه‌ها است. برای اضافه‌کردن یکی. دکمهٔ منو را بزنید و نشانی اینترنتی وارد کنید.
+
+نشانی یک مخزن چیزی است شبیه این: https://f-droid.org/repo</string>
+    <string name="no_such_app">چنین برنامه‌ای یافت نشد</string>
+    <string name="not_inst">نصب‌نشده</string>
+    <string name="notify_on">آگاهی‌دادن هنگامی که به‌روزرسانی‌ها موجود هستند</string>
+    <string name="ok">باشد</string>
+    <string name="other">دیگر</string>
+    <string name="overwrite">بازنویسی</string>
+    <string name="process_update_msg">به‌روزرسانی فهرست برنامه‌ها…</string>
+    <string name="repo_add_add">افزودن</string>
+    <string name="repo_add_fingerprint">انگشت‌نگاری (دلبخواهی)</string>
+    <string name="repo_add_title">افزودن مخزنی جدید</string>
+    <string name="repo_add_url">نشانی مخزن</string>
+    <string name="repo_alrt">فهرست مخزن‌ها تغییر یافته‌است.
+آیا می‌خواهید به‌روزرسانی‌شان کنید؟</string>
+    <string name="repo_description">توضیحات</string>
+    <string name="repo_exists">این مخزن هم‌اکنون وجود ندارد!</string>
+    <string name="repo_last_update">واپسین بروزرسانی</string>
+    <string name="repo_name">نام</string>
+    <string name="repo_update">بروزرسانی‌ها</string>
+    <string name="repo_update_title">به‌روزرسانی مخازن</string>
+    <string name="repo_url">URL</string>
+    <string name="requires_features">نیاز به: %1$s</string>
+    <string name="rooted">روت</string>
+    <string name="search_hint">جستجوی برنامه‌ها</string>
+    <string name="search_results">جستجوی نتایج</string>
+    <string name="status_checking_compatibility">بررسی سازگاری برنامه‌ها با دستگاه شما…</string>
+    <string name="status_connecting_to_repo">اتصال به
+%1$s</string>
+    <string name="status_download">دریافت
+%2$s / %3$s (%4$d%%) از
+%1$s</string>
+    <string name="tab_updates">به‌روزرسانی‌ها</string>
+    <string name="theme">پوسته</string>
+    <string name="unknown">ناشناخته</string>
+    <string name="unsigned">بدون امضا</string>
+    <string name="unsigned_description">این بدین معنی است که 
+در فهرست برنامه‌های بازبینی شده نیست. شما باید هشیار باشید
+با برنامه‌های دریافت‌شده از فهرست‌های بدون امضا</string>
+    <string name="up_to_maxsdk">تا به %s</string>
+    <string name="update_history">به‌روزرسانی تاریخچه</string>
+    <string name="update_interval">به‌روزرسانی دوره‌ای خودکار</string>
+    <string name="update_interval_zero">به‌روزرسانی‌نکردن خودکار فهرست برنامه‌ها</string>
+    <string name="updates">به‌روزرسانی‌ها</string>
+    <string name="yes">بله</string>
+</resources>

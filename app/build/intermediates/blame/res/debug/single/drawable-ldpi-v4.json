@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\nfc_touch.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\nfc_touch.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wifi.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\swap_success.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\swap_success.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wifi_ap_personal.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\wifi_ap_personal.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_repo_app_default.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\ic_repo_app_default.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_swap.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\ic_swap.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wifi_ap_private.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\wifi_ap_private.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_stat_notify.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\ic_stat_notify.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_stat_notify_updates.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\ic_stat_notify_updates.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\hotspot.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\hotspot.png"
+    },
+    {
+        "merged": "C:\\Phonemetra\\TurboStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\wifi_ap_public.png",
+        "source": "C:\\Phonemetra\\TurboStore\\app\\res\\drawable-ldpi\\wifi_ap_public.png"
+    }
+]
