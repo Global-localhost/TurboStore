@@ -1,5 +1,6 @@
-# TurboStore
-Turbo Store™
+<h1 align="center">Turbo Store™</h1>
+
+<p align="center"><img src="https://github.com/Phonemetra/TurboStore/blob/master/res/drawable-xxxhdpi/ic_launcher_store.png" width="192" height="192"></p>
 
 
 
