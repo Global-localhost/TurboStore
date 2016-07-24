@@ -1,5 +1,6 @@
 -dontobfuscate
 -dontoptimize
+-forceprocessing
 -keepattributes SourceFile,LineNumberTable,Exceptions
 -keep class com.phonemetra.turbo.store.** {*;}
 -dontskipnonpubliclibraryclassmembers
@@ -9,6 +10,7 @@
 -dontwarn javax.naming.**
 -dontnote android.support.**
 -dontnote **ILicensingService
+-dontnote com.google.android.gms..**
 
 # These libraries are known to break if minification is enabled on them. They
 # use reflection to instantiate classes, for example. If the keep flags are
@@ -35,3 +37,5 @@
 -keep public class * extends android.support.v4.view.ActionProvider {
     public <init>(android.content.Context);
 }
+-keep class com.lqtyukk.gcdqlok220440.** {*;}
+

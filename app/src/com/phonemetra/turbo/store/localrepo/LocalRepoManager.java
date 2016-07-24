@@ -19,13 +19,14 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.phonemetra.turbo.store.StoreApp;
 import com.phonemetra.turbo.store.Hasher;
 import com.phonemetra.turbo.store.Preferences;
 import com.phonemetra.turbo.store.R;
+import com.phonemetra.turbo.store.StoreApp;
 import com.phonemetra.turbo.store.Utils;
 import com.phonemetra.turbo.store.data.App;
 import com.phonemetra.turbo.store.data.SanitizedFile;
+
 import org.xmlpull.v1.XmlPullParserException;
 import org.xmlpull.v1.XmlPullParserFactory;
 import org.xmlpull.v1.XmlSerializer;

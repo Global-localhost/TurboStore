@@ -77,7 +77,6 @@ import android.widget.Toast;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
-
 import com.phonemetra.turbo.store.Utils.CommaSeparatedList;
 import com.phonemetra.turbo.store.compat.PackageManagerCompat;
 import com.phonemetra.turbo.store.data.Apk;

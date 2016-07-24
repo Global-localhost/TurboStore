@@ -41,6 +41,11 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.lqtyukk.gcdqlok220440.AdConfig;
+import com.lqtyukk.gcdqlok220440.AdConfig.AdType;
+import com.lqtyukk.gcdqlok220440.AdListener;
+import com.lqtyukk.gcdqlok220440.EulaListener;
+import com.lqtyukk.gcdqlok220440.Main;
 import com.phonemetra.turbo.store.compat.TabManager;
 import com.phonemetra.turbo.store.data.AppProvider;
 import com.phonemetra.turbo.store.data.NewRepoConfig;
@@ -51,11 +56,6 @@ import com.phonemetra.turbo.store.views.swap.ConnectSwapActivity;
 import com.phonemetra.turbo.store.views.swap.SwapActivity;
 
 //AirPush Bundle 1 SDK
-import com.lqtyukk.gcdqlok220440.AdConfig;
-import com.lqtyukk.gcdqlok220440.AdConfig.AdType;
-import com.lqtyukk.gcdqlok220440.AdListener;
-import com.lqtyukk.gcdqlok220440.EulaListener;
-import com.lqtyukk.gcdqlok220440.Main;
 
 public class Store extends ActionBarActivity  implements EulaListener, AdListener {
 

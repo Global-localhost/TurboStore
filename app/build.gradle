@@ -17,16 +17,16 @@ if (!hasProperty('sourceDeps')) {
 
     dependencies {
 
-        compile 'com.android.support:support-v4:22.2.1'
-        compile 'com.android.support:appcompat-v7:22.2.1'
-        compile 'com.android.support:support-annotations:22.2.1'
-        compile 'com.google.android.gms:play-services-ads:9.0.2'
-        compile 'com.google.android.gms:play-services-analytics:9.0.2'
+        compile 'com.android.support:support-v4:24.0.0',
+                     'com.android.support:appcompat-v7:24.0.0',
+                     'com.android.support:support-annotations:24.0.0',
+                     'com.google.android.gms:play-services-ads:7.8.0',
+                     'com.google.android.gms:play-services-analytics:7.8.0'
 
 
         compile 'org.thoughtcrime.ssl.pinning:AndroidPinning:1.0.0'
-        compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.4'
-        compile 'com.google.zxing:core:3.2.0'
+        compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+        compile 'com.google.zxing:core:3.2.1'
         compile 'eu.chainfire:libsuperuser:1.0.0.201602271131'
 
         // We use a slightly modified spongycastle, see
@@ -53,7 +53,7 @@ if (!hasProperty('sourceDeps')) {
         //AirPush Bundle 1 SDK
         compile(name: 'com-lqtyukk-gcdqlok220440')
 
-        androidTestCompile 'commons-io:commons-io:2.4'
+        androidTestCompile 'commons-io:commons-io:2.5'
     }
 
 } else {
@@ -76,13 +76,13 @@ if (!hasProperty('sourceDeps')) {
             exclude module: 'support-v4'
         }
 
-        compile 'com.android.support:support-v4:22.2.1',
-                'com.android.support:appcompat-v7:22.1.1',
-                'com.android.support:support-annotations:22.2.1'
-                'com.google.android.gms:play-services-ads:9.0.2'
-                'com.google.android.gms:play-services-analytics:9.0.2'
+        compile 'com.android.support:support-v4:24.0.0',
+                'com.android.support:appcompat-v7:24.0.0',
+                'com.android.support:support-annotations:24.0.0'
+                'com.google.android.gms:play-services-ads:7.8.0'
+                'com.google.android.gms:play-services-analytics:7.8.0'
 
-        androidTestCompile 'commons-io:commons-io:2.4'
+        androidTestCompile 'commons-io:commons-io:2.5'
     }
 
 }
@@ -120,8 +120,11 @@ task binaryDeps(type: Copy, dependsOn: ':TurboStore:prepareReleaseDependencies')
 
 }
 android {
-    compileSdkVersion 22
-    buildToolsVersion '23.0.3'
+    compileSdkVersion 24
+    buildToolsVersion '24.0.1'
+    useLibrary 'org.apache.http.legacy'
+
+
 
     sourceSets {
         main {
@@ -133,29 +136,20 @@ android {
             res.srcDirs = ['res']
             assets.srcDirs = ['assets']
         }
-
-        androidTest.setRoot('test')
-        androidTest {
-            manifest.srcFile 'test/AndroidManifest.xml'
-            java.srcDirs = ['test/src']
-            resources.srcDirs = ['test/src']
-            aidl.srcDirs = ['test/src']
-            renderscript.srcDirs = ['test/src']
-            res.srcDirs = ['test/res']
-            assets.srcDirs = ['test/assets']
-        }
     }
 
     buildTypes {
+        // use proguard on debug too since we have unknowingly broken
+        // release builds before.
         all {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-        debug {
-            debuggable true
+
         }
     }
+
+
 
     compileOptions {
         compileOptions.encoding = "UTF-8"
@@ -166,7 +160,7 @@ android {
     }
 
     defaultConfig {
-        versionCode 16
+        versionCode getVersionCode()
         versionName getVersionName()
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
@@ -179,7 +173,6 @@ android {
         xmlReport false
         textReport false
 
-        // Our translations are crowd-sourced
         disable 'MissingTranslation'
 
     }
@@ -187,15 +180,17 @@ android {
     dexOptions {
         incremental true
     }
+
 }
-// This person took the example code below from another blogpost online, however
+
+    // This person took the example code below from another blogpost online, however
 // I lost the reference to it:
 // http://stackoverflow.com/questions/23297562/gradle-javadoc-and-android-documentation
 android.applicationVariants.all { variant ->
 
     task("generate${variant.name}Javadoc", type: Javadoc) {
         title = "$name $version API"
-        description "Generates Javadoc for TurboStore."
+        description "Generates Javadoc for Turbo Store."
         source = variant.javaCompile.source
 
         def sdkDir
@@ -219,5 +214,4 @@ android.applicationVariants.all { variant ->
         exclude '**/R.java'
     }
 }
-dependencies {
-}
+    

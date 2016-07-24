@@ -1,6 +1,5 @@
 package mock;
 
-import android.content.pm.PackageInfo;
 import android.test.mock.MockPackageManager;
 
 import java.util.ArrayList;

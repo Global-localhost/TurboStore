@@ -1,7 +1,6 @@
 package mock;
 
 import android.content.pm.ApplicationInfo;
-import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 
 public class MockApplicationInfo extends ApplicationInfo {

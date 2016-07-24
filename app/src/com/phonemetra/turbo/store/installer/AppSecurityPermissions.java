@@ -67,6 +67,8 @@ public class AppSecurityPermissions {
     public static final int WHICH_DEVICE = 1<<1;
     public static final int WHICH_NEW = 1<<2;
 
+    public static  int REQUESTED_PERMISSION_REQUIRED = 1<<1;
+
     private final static String TAG = "AppSecurityPermissions";
     private final Context mContext;
     private final LayoutInflater mInflater;
@@ -434,8 +436,12 @@ public class AppSecurityPermissions {
         final int base = pInfo.protectionLevel&PermissionInfo.PROTECTION_MASK_BASE;
         final boolean isNormal = (base == PermissionInfo.PROTECTION_NORMAL);
         final boolean isDangerous = (base == PermissionInfo.PROTECTION_DANGEROUS);
-        final boolean isRequired =
-                ((newReqFlags&PackageInfo.REQUESTED_PERMISSION_REQUIRED) != 0);
+        boolean isRequired;
+        if (Build.VERSION.SDK_INT < 23) {
+            isRequired = ((newReqFlags & REQUESTED_PERMISSION_REQUIRED) != 0);
+        } else {
+            isRequired = false;
+        }
         final boolean isDevelopment =
                 ((pInfo.protectionLevel&PermissionInfo.PROTECTION_FLAG_DEVELOPMENT) != 0);
         final boolean wasGranted =
